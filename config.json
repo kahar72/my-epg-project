@@ -11,6 +11,10 @@
     {
       "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml",
       "include_channels": ["TV1", "TV2", "TV3", "AstroRia", "AstroPrima", "AstroOasis", "AstroCitra", "TVSUKAN", "TV6", "TVAlhijrah", "ColorsHD", "TVS", "JomNgaji", "FilemMantap", "DramaHebat", "DramaHotpot", "LawakSentral", "TravelandTaste", "OhMyCeria", "Tastemade", "OKEY", "8TV", "TV9", "ZeeCinema", "iQIYI", "CelestialMovies", "AstroAOD", "AstroQJ", "KBSWorld", "ONE", "tvN", "K-Plus", "HITSMovies", "AstroBoo", "AstroShowcase", "tvNMovies", "AstroAwani", "AlJazeeraEnglish", "LoveNature", "AXN", "Lifetime", "AstroPremierLeague", "AstroPremierLeague2", "AstroSportsUHD", "AstroGrandstand", "AstroFootball", "AstroArena", "AstroArena2", "AstroArenaBola", "AstroArenaBola2", "AstroSportsPlus", "AstroCricket", "TVSUKAN", "PremierSports"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml",
+      "include_channels": ["108", "109", "113", "118", "116", "141", "120", "701"]
     }
   ]
 }
