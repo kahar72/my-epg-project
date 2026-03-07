@@ -20,6 +20,6 @@ jobs:
         run: |
           git config --global user.name "EPG-Bot"
           git config --global user.email "bot@github.com"
-          git add custom_guide.xml
-          git commit -m "Update EPG Data" || exit 0
+          git add custom_guide.xml custom_guide.xml.gz
+          git commit -m "Update EPG Data and Gzip" || exit 0
           git push
