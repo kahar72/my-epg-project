@@ -17,44 +17,44 @@ def main():
         config = json.load(f)
 
     new_root = ET.Element("tv")
-    new_root.set("generator-info-name", "MyCustomEPG")
-
-    all_programs = []
-    included_ids = set()
+    new_root.set("generator-info-name", "MyCustomEPG-Mapper")
 
     for source in config['sources']:
         try:
             xml_data = fetch_xml(source['url'])
             tree = ET.fromstring(xml_data)
-            target_ids = source['include_channels']
-            included_ids.update(target_ids)
+            # rename_map is like {"old_id": "new_id"}
+            rename_map = source.get('rename_channels', {})
+            target_ids = list(rename_map.keys())
 
+            # 1. Process Channels
             for channel in tree.findall('channel'):
-                if channel.get('id') in target_ids:
+                old_id = channel.get('id')
+                if old_id in target_ids:
+                    new_id = rename_map[old_id]
+                    channel.set('id', new_id) # Rename it!
                     new_root.append(channel)
 
+            # 2. Process Programs
             for prog in tree.findall('programme'):
-                if prog.get('channel') in target_ids:
-                    all_programs.append(prog)
+                old_channel_id = prog.get('channel')
+                if old_channel_id in target_ids:
+                    new_id = rename_map[old_channel_id]
+                    prog.set('channel', new_id) # Rename it here too!
+                    new_root.append(prog)
+                    
         except Exception as e:
             print(f"Error processing {source['url']}: {e}")
 
-    for prog in all_programs:
-        new_root.append(prog)
-
-    new_tree = ET.ElementTree(new_root)
-    ET.indent(new_tree, space="  ", level=0)
-    
-    # --- NEW: SAVE AS GZIP ---
+    # Save as Gzip
     xml_str = ET.tostring(new_root, encoding='utf-8', xml_declaration=True)
     with gzip.open("custom_guide.xml.gz", "wb") as f:
         f.write(xml_str)
     
-    # Also keep the regular version if you want for testing
     with open("custom_guide.xml", "wb") as f:
         f.write(xml_str)
         
-    print("Done! Compressed custom_guide.xml.gz created.")
+    print("Done! Mapped EPG created.")
 
 if __name__ == "__main__":
     main()
