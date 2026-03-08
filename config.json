@@ -135,6 +135,7 @@
 		"DiscoveryAsia": "DiscoveryAsia",
 		"TLC": "TLC",
 		"AFN": "AFN"
+		"AstroCricket": "AstroCricket"
       }
     },
     {
@@ -230,6 +231,7 @@
         "beINSports1.au": "beINSports1.au",
 		"beINSports2.au": "beINSports2.au",
 		"beINSports3.au": "beINSports3.au"
+		"beINSportsXtra.au": "beINSportsXtra.au"
       }
     },
     {
@@ -290,6 +292,7 @@
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
 		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
 		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
+		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2"
       }
 	},
     {
@@ -298,6 +301,8 @@
         "MetroTV.id@SD": "MetroTV.id@SD",
 		"MQTV.id@SD": "MQTV.id@SD", 
 		"RodjaTV.id@SD": "RodjaTV.id@SD"
+		"RajawaliTV.id@SD": "RajawaliTV.id@SD", 
+		"Moji.id@SD": "Moji.id@SD"
       }
 	}
   ]
