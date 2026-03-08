@@ -1,7 +1,7 @@
 name: Update EPG
 on:
   schedule:
-    - cron: '0 4 * * *' # Runs every day at 4:00 AM
+    - cron: '0 21 * * *' # Runs every day at 9:00 PM
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
