@@ -15,6 +15,10 @@
     {
       "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml",
       "include_channels": ["108", "109", "113", "118", "116", "141", "120", "701"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml",
+      "include_channels": ["SCTV.id", "Indosiar.id", "TransTV.id", "Trans7.id", "TVRI.id", "RCTI.id", "MNCTV.id", "ANTV.id", "RTV.id", "MDTV.id", "Moji.id", "MQTV.id", "AlWafaTarim.id", "RodjaTV.id", "MetroTV.id", "GlobalTrekker.id"]
     }
   ]
 }
