@@ -20,9 +20,10 @@ jobs:
         run: |
           git config --global user.name "EPG-Bot"
           git config --global user.email "bot@github.com"
-          # This command adds both files specifically
           git add custom_guide.xml custom_guide.xml.gz
-          # The '|| exit 0' prevents the "error" if nothing changed
-          git commit -m "Update EPG files" || exit 0
+          
+          # This variable grabs the last line of the python output
+          STATS=$(python filter_epg.py | tail -n 2 | head -n 1)
+          
+          git commit -m "EPG Auto-Update: $STATS" || exit 0
           git push
-
