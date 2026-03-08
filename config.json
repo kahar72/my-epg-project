@@ -131,7 +131,10 @@
 		"AstroArenaBola2": "AstroArenaBola2",
 		"AstroSportsPlus": "AstroSportsPlus",
 		"AstroCricket": "AstroCricket",
-		"PremierSports": "PremierSports"
+		"PremierSports": "PremierSports",
+		"DiscoveryAsia": "DiscoveryAsia",
+		"TLC": "TLC",
+		"AFN": "AFN"
       }
     },
     {
@@ -190,6 +193,103 @@
 		"SkySp.Mix.HD.uk": "SkySp.Mix.HD.uk",
 		"Premier.Sports.1.HD.uk": "Premier.Sports.1.HD.uk",
 		"Premier.Sports.2.HD.uk": "Premier.Sports.2.HD.uk"
+      }
+	},
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
+      "rename_channels": {
+        "Sky.Sport.1.nz": "Sky.Sport.1.nz",
+		"Sky.Sport.2.nz": "Sky.Sport.2.nz",
+		"Sky.Sport.3.nz": "Sky.Sport.3.nz",
+		"Sky.Sport.4.nz.id": "Sky.Sport.4.nz",
+		"Sky.Sport.5.nz": "Sky.Sport.5.nz",
+		"Sky.Sport.6.nz": "Sky.Sport.6.nz",
+		"Sky.Sport.7.nz": "Sky.Sport.7.nz",
+		"Sky.Sport.Premier.League.nz": "Sky.Sport.Premier.League.nz",
+		"Sky.Sport.9.nz": "Sky.Sport.9.nz",
+		"ESPN..nz": "ESPN..nz",
+		"ESPN2.nz": "ESPN2.nz"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
+      "rename_channels": {
+        "Sky.Sport.Premier.League.de": "Sky.Sport.Premier.League.de",
+		"Sky.Sport.Top.Event.de": "Sky.Sport.Top.Event.de",
+		"Sky.Sport.Austria.1.HD.de": "Sky.Sport.Austria.1.HD.de",
+		"DAZN.1.de": "DAZN.1.de",
+		"DAZN.2.de": "DAZN.2.de",
+		"ZDF.de": "ZDF.de",
+		"ORF.1.de": "ORF.1.de",
+		"sportdigital.Fussball.de": "sportdigital.Fussball.de"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "rename_channels": {
+        "beINSports1.au": "beINSports1.au",
+		"beINSports2.au": "beINSports2.au",
+		"beINSports3.au": "beINSports3.au"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
+      "rename_channels": {
+        "Sportsnet.360.HD.ca2": "Sportsnet.360.HD.ca2",
+		"Sportsnet.East.HD.ca2": "Sportsnet.East.HD.ca2",
+		"Sportsnet.One.HD.ca2": "Sportsnet.One.HD.ca2",
+		"Sportsnet.World.HD.ca2": "Sportsnet.World.HD.ca2",
+		"TSN.1.ca2": "TSN.1.ca2",
+		"TSN.2.ca2": "TSN.2.ca2",
+		"TSN.3.ca2": "TSN.3.ca2",
+		"TSN.4.ca2": "TSN.4.ca2",
+		"TSN.5.ca2": "TSN.5.ca2"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz",
+      "rename_channels": {
+        "DAZN.1.pt": "DAZN.1.pt",
+		"DAZN.2.pt": "DAZN.2.pt",
+		"DAZN.3.pt": "DAZN.3.pt",
+		"DAZN.4.pt": "DAZN.4.pt",
+		"DAZN.5.pt": "DAZN.5.pt",
+		"SPORT.TV1.HD.pt": "SPORT.TV1.HD.pt",
+		"SPORT.TV2.HD.pt": "SPORT.TV2.HD.pt",
+		"SPORT.TV3.HD.pt": "SPORT.TV3.HD.pt",
+		"SPORT.TV4.HD.pt": "SPORT.TV4.HD.pt",
+		"SPORT.TV5.HD.pt": "SPORT.TV5.HD.pt"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "rename_channels": {
+        "FS1.HD.us2": "FS1.HD.us2",
+		"FS2.HD.us2": "FS2.HD.us2",
+		"ESPN.HD.us2": "ESPN.HD.us2",
+		"ESPN2.HD.us2": "ESPN2.HD.us2",
+		"NFL.Network.HD.us2": "NFL.Network.HD.us2",
+		"NFL.RedZone.HD.us2": "NFL.RedZone.HD.us2",
+		"NBC.Sports.Bay.Area.HD.us2": "NBC.Sports.Bay.Area.HD.us2",
+		"NBC.Sports.Now.us2": "NBC.Sports.Now.us2",
+		"Curiosity.NOW.us2": "Curiosity.NOW.us2",
+		"ABC.News.Live.us2": "ABC.News.Live.us2",
+		"Smithsonian.HD.Network.us2": "Smithsonian.HD.Network.us2",
+		"The.Travel.Channel.HD.us2": "The.Travel.Channel.HD.us2",
+		"A.and.E.HD.East.us2": "A.and.E.HD.East.us2",
+		"Outdoor.Channel.HD.us2": "Outdoor.Channel.HD.us2",
+		"World.Fishing.Network.HD.(US).us2": "World.Fishing.Network.HD.(US).us2",
+		"Animal.Planet.HD.us2": "Animal.Planet.HD.us2",
+		"National.Geographic.HD.us2": "National.Geographic.HD.us2",
+		"National.Geographic.Wild.HD.us2": "National.Geographic.Wild.HD.us2",
+		"Science.Channel.HD.us2": "Science.Channel.HD.us2",
+		"Disney.Channel.HD.us2": "Disney.Channel.HD.us2",
+		"Boomerang.us2": "Boomerang.us2",
+		"CBS.Sports.Network.HD.us2": "CBS.Sports.Network.HD.us2",
+		"TUDN.us2": "TUDN.us2",
+		"USA.Network.HD.us2": "USA.Network.HD.us2",
+		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
+		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
       }
 	}
   ]
