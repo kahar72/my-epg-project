@@ -291,6 +291,14 @@
 		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
 		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
       }
+	},
+    {
+      "url": "https://github.com/bmeidch/bemu/raw/refs/heads/main/epg/id-idhm-id.xml.gz",
+      "rename_channels": {
+        "MetroTV.id@SD": "MetroTV.id@SD",
+		"MQTV.id@SD": "MQTV.id@SD", 
+		"RodjaTV.id@SD": "RodjaTV.id@SD"
+      }
 	}
   ]
 }
