@@ -14,8 +14,16 @@
     },
     {
       "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml",
-      "include_channels": ["108", "109", "113", "118", "116", "141", "120", "701"]
-    },
+      "rename_channels": {
+        "108": "UTV-108",
+        "109": "UTV-109",
+        "113": "UTV-113",
+        "118": "UTV-118",
+        "116": "UTV-116",
+        "141": "UTV-141",
+        "120": "UTV-120",
+        "701": "UTV-701"
+      },
     {
       "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml",
       "include_channels": ["SCTV.id", "Indosiar.id", "TransTV.id", "Trans7.id", "TVRI.id", "RCTI.id", "MNCTV.id", "ANTV.id", "RTV.id", "MDTV.id", "Moji.id", "MQTV.id", "AlWafaTarim.id", "RodjaTV.id", "MetroTV.id", "GlobalTrekker.id"]
