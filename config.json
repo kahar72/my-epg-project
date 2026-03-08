@@ -298,6 +298,16 @@
 		"RajawaliTV.id@SD": "RajawaliTV.id@SD", 
 		"Moji.id@SD": "Moji.id@SD"
       }
+	},
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "rename_channels": {
+		"Star.Sports.Select.1.in": "Star.Sports.Select.1.in",
+		"Star.Sports.Select.2.in": "Star.Sports.Select.2.in",
+		"Sony.Ten.1.HD.in": "Sony.Ten.1.HD.in",
+		"Sony.Ten.2.HD.in": "Sony.Ten.2.HD.in",
+		"Sony.Ten.5.HD.in": "Sony.Ten.5.HD.in"
+      }
 	}
   ]
 }
