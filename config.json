@@ -152,18 +152,20 @@
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml",
+      "url": "https://www.open-epg.com/files/indonesia5.xml.gz",
       "rename_channels": {
         "SCTV.id": "SCTV.id",
 		"Indosiar.id": "Indosiar.id",
-		"TransTV.id": "TransTV.id",
+		"Trans TV.id": "Trans TV.id",
 		"Trans7.id": "Trans7.id",
 		"TVRI.id": "TVRI.id",
 		"RCTI.id": "RCTI.id",
-		"MNCTV.id": "MNCTV.id",
+		"MNC TV.id": "MNC TV.id",
 		"ANTV.id": "ANTV.id",
+		"RTV.id": "RTV.id",
 		"MDTV.id": "MDTV.id",
-		"GlobalTrekker.id": "GlobalTrekker.id"
+		"Metro TV.id": "Metro TV.id",
+		"Moji.id": "Moji.id"
       }
     },
     {
@@ -290,24 +292,24 @@
       }
 	},
     {
-      "url": "https://github.com/bmeidch/bemu/raw/refs/heads/main/epg/id-idhm-id.xml.gz",
-      "rename_channels": {
-        "MetroTV.id@SD": "MetroTV.id@SD",
-		"MQTV.id@SD": "MQTV.id@SD", 
-		"RodjaTV.id@SD": "RodjaTV.id@SD",
-		"RajawaliTV.id@SD": "RajawaliTV.id@SD", 
-		"Moji.id@SD": "Moji.id@SD"
-      }
-	},
-    {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
       "rename_channels": {
-		"Star.Sports.Select.1.in": "Star.Sports.Select.1.in",
-		"Star.Sports.Select.2.in": "Star.Sports.Select.2.in",
 		"Sony.Ten.1.HD.in": "Sony.Ten.1.HD.in",
 		"Sony.Ten.2.HD.in": "Sony.Ten.2.HD.in",
 		"Sony.Ten.5.HD.in": "Sony.Ten.5.HD.in"
       }
-	}
+	},
+    {
+      "url": "https://www.open-epg.com/files/qatar2.xml.gz",
+      "rename_channels": {
+        "4k DIGITAL.qa": "4k DIGITAL.qa",
+		"beIN SPORTS1 ENGLISH Digital.qa": "beIN SPORTS1 ENGLISH Digital.qa",
+		"beIN SPORTS2 ENGLISH Digital.qa": "beIN SPORTS2 ENGLISH Digital.qa",
+		"beIN SPORTS1 DIGITAL.qa": "beIN SPORTS1 DIGITAL.qa",
+		"beIN SPORTS2 DIGITAL.qa": "beIN SPORTS2 DIGITAL.qa",
+		"beIN SPORTS3 DIGITAL.qa": "beIN SPORTS3 DIGITAL.qa",
+		"beIN SPORTS4 DIGITAL.qa": "beIN SPORTS4 DIGITAL.qa"
+      }
+    }
   ]
 }
