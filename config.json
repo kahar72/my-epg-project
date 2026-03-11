@@ -134,8 +134,7 @@
 		"PremierSports": "PremierSports",
 		"DiscoveryAsia": "DiscoveryAsia",
 		"TLC": "TLC",
-		"AFN": "AFN",
-		"AstroCricket": "AstroCricket"
+		"AFN": "AFN"
       }
     },
     {
@@ -296,8 +295,7 @@
       "rename_channels": {
 		"Sony.Ten.1.HD.in": "Sony.Ten.1.HD.in",
 		"Sony.Ten.2.HD.in": "Sony.Ten.2.HD.in",
-		"Sony.Ten.5.HD.in": "Sony.Ten.5.HD.in",
-		"Sony.Pix.HD.in": "Sony.Pix.HD.in"
+		"Sony.Ten.5.HD.in": "Sony.Ten.5.HD.in"
       }
 	},
     {
