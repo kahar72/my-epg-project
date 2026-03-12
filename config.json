@@ -189,6 +189,12 @@
 		"SkySp.Mix.HD.uk": "SkySp.Mix.HD.uk",
 		"Premier.Sports.1.HD.uk": "Premier.Sports.1.HD.uk",
 		"Premier.Sports.2.HD.uk": "Premier.Sports.2.HD.uk"
+		"ITV1.HD.uk": "ITV1.HD.uk",
+		"ITV4.HD.uk": "ITV4.HD.uk",
+		"BBC.One.Lon.HD.uk": "BBC.One.Lon.HD.uk",
+		"BBC.Two.HD.uk": "BBC.Two.HD.uk",
+		"BBC.Three.HD.uk": "BBC.Three.HD.uk",
+		"BBC.Four.HD.uk": "BBC.Four.HD.uk"
       }
 	},
     {
@@ -204,7 +210,8 @@
 		"Sky.Sport.Premier.League.nz": "Sky.Sport.Premier.League.nz",
 		"Sky.Sport.9.nz": "Sky.Sport.9.nz",
 		"ESPN..nz": "ESPN..nz",
-		"ESPN2.nz": "ESPN2.nz"
+		"ESPN2.nz": "ESPN2.nz",
+		"TVNZ.1.nz": "TVNZ.1.nz"
       }
     },
     {
@@ -218,6 +225,10 @@
 		"ZDF.de": "ZDF.de",
 		"ORF.1.de": "ORF.1.de",
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de"
+		"Das.Erste.de": "Das.Erste.de",
+		"ORF.2.de": "ORF.2.de",
+		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
+		"test": "test"
       }
     },
     {
@@ -226,7 +237,8 @@
         "beINSports1.au": "beINSports1.au",
 		"beINSports2.au": "beINSports2.au",
 		"beINSports3.au": "beINSports3.au",
-		"beINSportsXtra.au": "beINSportsXtra.au"
+		"SBSSydney.au": "SBSSydney.au",
+		"SBSVicelandMelbourne.au": "SBSVicelandMelbourne.au"
       }
     },
     {
@@ -308,6 +320,18 @@
 		"beIN SPORTS2 DIGITAL.qa": "beIN SPORTS2 DIGITAL.qa",
 		"beIN SPORTS3 DIGITAL.qa": "beIN SPORTS3 DIGITAL.qa",
 		"beIN SPORTS4 DIGITAL.qa": "beIN SPORTS4 DIGITAL.qa"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
+      "rename_channels": {
+        "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
+		"beIN.SPORTS.2.fr": "beIN.SPORTS.2.fr",
+		"beIN.SPORTS.3.fr": "beIN.SPORTS.3.fr",
+		"TF1.fr": "TF1.fr",
+		"TFX.fr": "TFX.fr",
+		"M6.fr": "M6.fr",
+		"W9.fr": "W9.fr"
       }
     }
   ]
