@@ -27,3 +27,21 @@ jobs:
           
           git commit -m "EPG Auto-Update: $STATS" || exit 0
           git push
+      - name: Backup to Dropbox
+        env:
+          DBX_TOKEN: ${{ secrets.DROPBOX_TOKEN }}
+        run: |
+          # Upload the plain XML
+          curl -X POST https://content.dropboxapi.com/2/files/upload \
+            --header "Authorization: Bearer $DBX_TOKEN" \
+            --header "Dropbox-API-Arg: {\"path\": \"/EPG_Backups/custom_guide.xml\",\"mode\": \"overwrite\"}" \
+            --header "Content-Type: application/octet-stream" \
+            --data-binary @custom_guide.xml
+
+          # Upload the Gzipped version
+          curl -X POST https://content.dropboxapi.com/2/files/upload \
+            --header "Authorization: Bearer $DBX_TOKEN" \
+            --header "Dropbox-API-Arg: {\"path\": \"/EPG_Backups/custom_guide.xml.gz\",\"mode\": \"overwrite\"}" \
+            --header "Content-Type: application/octet-stream" \
+            --data-binary @custom_guide.xml.gz
+            
