@@ -175,10 +175,7 @@
 		"SONY.MAX.HD.uk": "SONY.MAX.HD.uk",
 		"SkySp.PL.HD.uk": "SkySp.PL.HD.uk",
 		"SkySpMainEvHD.uk": "SkySpMainEvHD.uk",
-		"Sky.Sports.Ultra.HD.1.uk": "Sky.Sports.Ultra.HD.1.uk",
-		"Sky.Sports.Ultra.HD.2.uk": "Sky.Sports.Ultra.HD.2.uk",
 		"TNT.Sports.1.HD.uk": "TNT.Sports.1.HD.uk",
-		"TNT.Sports.Ultimate.uk": "TNT.Sports.Ultimate.uk",
 		"TNT.Sports.2.HD.uk": "TNT.Sports.2.HD.uk",
 		"TNT.Sports.3.HD.uk": "TNT.Sports.3.HD.uk",
 		"TNT.Sports.4.HD.uk": "TNT.Sports.4.HD.uk",
@@ -294,19 +291,9 @@
 		"Disney.Channel.HD.us2": "Disney.Channel.HD.us2",
 		"Boomerang.us2": "Boomerang.us2",
 		"CBS.Sports.Network.HD.us2": "CBS.Sports.Network.HD.us2",
-		"TUDN.us2": "TUDN.us2",
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
 		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
-		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2",
 		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
-      "rename_channels": {
-		"Sony.Ten.1.HD.in": "Sony.Ten.1.HD.in",
-		"Sony.Ten.2.HD.in": "Sony.Ten.2.HD.in",
-		"Sony.Ten.5.HD.in": "Sony.Ten.5.HD.in"
       }
 	},
     {
