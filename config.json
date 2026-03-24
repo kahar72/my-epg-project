@@ -225,7 +225,9 @@
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
 		"Das.Erste.de": "Das.Erste.de",
 		"ORF.2.de": "ORF.2.de",
-		"ORF.SPORT.+.de": "ORF.SPORT.+.de"
+		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
+		"Sky.Sport.Mix.de": "Sky.Sport.Mix.de",
+		"Sky.Sport.F1.de": "Sky.Sport.F1.de"
       }
     },
     {
@@ -354,6 +356,20 @@
 		"Sky.Sport.Max.it": "Sky.Sport.Max.it",
 		"Sky.Sport.Uno.it": "Sky.Sport.Uno.it",
 		"Sky.Sport.MotoGP.it": "Sky.Sport.MotoGP.it"
+      }
+    },
+    {
+      "url": "https://www.open-epg.com/files/norway1.xml.gz",
+      "rename_channels": {
+        "TV 2 Sport 1 HD (N) (T).no": "TV 2 Sport 1 HD (N) (T).no",
+		"TV 2 Sport 2 HD (N) (T).no": "TV 2 Sport 2 HD (N) (T).no",
+		"TV 2 Sport Premium HD (N) (T).no": "TV 2 Sport Premium HD (N) (T).no",
+		"TV 2 Sport Premium 2 HD (N) (T).no": "TV 2 Sport Premium 2 HD (N) (T).no",
+		"TV3+ HD (N) (T).no": "TV3+ HD (N) (T).no",
+		"V sport 1 HD (N) (T).no": "V sport 1 HD (N) (T).no",
+		"V sport 2 HD (N) (T).no": "V sport 2 HD (N) (T).no",
+		"V sport 3 HD (N) (T).no": "V sport 3 HD (N) (T).no",
+		"V sport+ HD (N) (T).no": "V sport+ HD (N) (T).no"
       }
     }
   ]
