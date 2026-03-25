@@ -251,7 +251,10 @@
 		"TSN.2.ca2": "TSN.2.ca2",
 		"TSN.3.ca2": "TSN.3.ca2",
 		"TSN.4.ca2": "TSN.4.ca2",
-		"TSN.5.ca2": "TSN.5.ca2"
+		"TSN.5.ca2": "TSN.5.ca2",
+		"CTV.Edmonton.HD.ca2": "CTV.Edmonton.HD.ca2",
+		"RÃ©seau.des.Sports.(RDS).ca2": "RÃ©seau.des.Sports.(RDS).ca2",
+		"RDS2.ca2": "RDS2.ca2"
       }
     },
     {
@@ -296,7 +299,8 @@
 		"CBS.Sports.Network.HD.us2": "CBS.Sports.Network.HD.us2",
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
 		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
-		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2"
+		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2",
+		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
       }
 	},
     {
