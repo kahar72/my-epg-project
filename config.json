@@ -168,7 +168,7 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
       "rename_channels": {
         "TRT.World.HD.uk": "TRT.World.HD.uk",
 		"Sky.History2.uk": "Sky.History2.uk",
@@ -194,12 +194,7 @@
 		"BBC.One.Lon.HD.uk": "BBC.One.Lon.HD.uk",
 		"BBC.Two.HD.uk": "BBC.Two.HD.uk",
 		"BBC.Three.HD.uk": "BBC.Three.HD.uk",
-		"BBC.Four.HD.uk": "BBC.Four.HD.uk"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
-      "rename_channels": {
+		"BBC.Four.HD.uk": "BBC.Four.HD.uk",
         "Sky.Sport.1.nz": "Sky.Sport.1.nz",
 		"Sky.Sport.2.nz": "Sky.Sport.2.nz",
 		"Sky.Sport.3.nz": "Sky.Sport.3.nz",
@@ -212,12 +207,7 @@
 		"Sky.Sport.Select.nz": "Sky.Sport.Select.nz",
 		"ESPN..nz": "ESPN..nz",
 		"ESPN2.nz": "ESPN2.nz",
-		"TVNZ.1.nz": "TVNZ.1.nz"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
-      "rename_channels": {
+		"TVNZ.1.nz": "TVNZ.1.nz",
         "Sky.Sport.Premier.League.de": "Sky.Sport.Premier.League.de",
 		"Sky.Sport.Top.Event.de": "Sky.Sport.Top.Event.de",
 		"Sky.Sport.Austria.1.HD.de": "Sky.Sport.Austria.1.HD.de",
@@ -230,22 +220,12 @@
 		"ORF.2.de": "ORF.2.de",
 		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
 		"Sky.Sport.Mix.de": "Sky.Sport.Mix.de",
-		"Sky.Sport.F1.de": "Sky.Sport.F1.de"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
-      "rename_channels": {
+		"Sky.Sport.F1.de": "Sky.Sport.F1.de",
         "beINSports1.au": "beINSports1.au",
 		"beINSports2.au": "beINSports2.au",
 		"beINSports3.au": "beINSports3.au",
 		"SBSSydney.au": "SBSSydney.au",
-		"SBSVicelandMelbourne.au": "SBSVicelandMelbourne.au"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
-      "rename_channels": {
+		"SBSVicelandMelbourne.au": "SBSVicelandMelbourne.au",
         "Sportsnet.360.HD.ca2": "Sportsnet.360.HD.ca2",
 		"Sportsnet.East.HD.ca2": "Sportsnet.East.HD.ca2",
 		"Sportsnet.One.HD.ca2": "Sportsnet.One.HD.ca2",
@@ -257,12 +237,7 @@
 		"TSN.5.ca2": "TSN.5.ca2",
 		"CTV.Edmonton.HD.ca2": "CTV.Edmonton.HD.ca2",
 		"RÃ©seau.des.Sports.(RDS).ca2": "RÃ©seau.des.Sports.(RDS).ca2",
-		"RDS2.ca2": "RDS2.ca2"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz",
-      "rename_channels": {
+		"RDS2.ca2": "RDS2.ca2",
         "DAZN.1.pt": "DAZN.1.pt",
 		"DAZN.2.pt": "DAZN.2.pt",
 		"DAZN.3.pt": "DAZN.3.pt",
@@ -272,12 +247,7 @@
 		"SPORT.TV2.HD.pt": "SPORT.TV2.HD.pt",
 		"SPORT.TV3.HD.pt": "SPORT.TV3.HD.pt",
 		"SPORT.TV4.HD.pt": "SPORT.TV4.HD.pt",
-		"SPORT.TV5.HD.pt": "SPORT.TV5.HD.pt"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
-      "rename_channels": {
+		"SPORT.TV5.HD.pt": "SPORT.TV5.HD.pt",
         "FS1.HD.us2": "FS1.HD.us2",
 		"FS2.HD.us2": "FS2.HD.us2",
 		"ESPN.HD.us2": "ESPN.HD.us2",
@@ -303,37 +273,15 @@
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
 		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
 		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2",
-		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
-      }
-	},
-    {
-      "url": "https://www.open-epg.com/files/qatar2.xml.gz",
-      "rename_channels": {
-        "4k DIGITAL.qa": "4k DIGITAL.qa",
-		"beIN SPORTS1 ENGLISH Digital.qa": "beIN SPORTS1 ENGLISH Digital.qa",
-		"beIN SPORTS2 ENGLISH Digital.qa": "beIN SPORTS2 ENGLISH Digital.qa",
-		"beIN SPORTS1 DIGITAL.qa": "beIN SPORTS1 DIGITAL.qa",
-		"beIN SPORTS2 DIGITAL.qa": "beIN SPORTS2 DIGITAL.qa",
-		"beIN SPORTS3 DIGITAL.qa": "beIN SPORTS3 DIGITAL.qa",
-		"beIN SPORTS4 DIGITAL.qa": "beIN SPORTS4 DIGITAL.qa"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
-      "rename_channels": {
-        "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
+		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2",
+	    "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
 		"beIN.SPORTS.2.fr": "beIN.SPORTS.2.fr",
 		"beIN.SPORTS.3.fr": "beIN.SPORTS.3.fr",
 		"TF1.fr": "TF1.fr",
 		"TFX.fr": "TFX.fr",
 		"M6.fr": "M6.fr",
-		"W9.fr": "W9.fr"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz",
-      "rename_channels": {
-        "Ziggo.Sport.nl": "Ziggo.Sport.nl",
+		"W9.fr": "W9.fr",
+		"Ziggo.Sport.nl": "Ziggo.Sport.nl",
 		"Ziggo.Sport.2.nl": "Ziggo.Sport.2.nl",
 		"Ziggo.Sport.3.nl": "Ziggo.Sport.3.nl",
 		"Ziggo.Sport.4.nl": "Ziggo.Sport.4.nl",
@@ -341,43 +289,43 @@
 		"Ziggo.Sport.6.nl": "Ziggo.Sport.6.nl",
 		"NPO.1.nl": "NPO.1.nl",
 		"NPO.2.nl": "NPO.2.nl",
-		"NPO.3.nl": "NPO.3.nl"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz",
-      "rename_channels": {
+		"NPO.3.nl": "NPO.3.nl",
         "Now.Sports.Premier.League.1.hk": "Now.Sports.Premier.League.1.hk",
 		"Now.Sports.Premier.League.2.hk": "Now.Sports.Premier.League.2.hk",
 		"Now.Sports.Premier.League.3.hk": "Now.Sports.Premier.League.3.hk",
-		"Now.Sports.Premier.League.4.hk": "Now.Sports.Premier.League.4.hk"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
-      "rename_channels": {
+		"Now.Sports.Premier.League.4.hk": "Now.Sports.Premier.League.4.hk",
         "Sky.Sport.24.it": "Sky.Sport.24.it",
 		"Sky.Sport.Arena.it": "Sky.Sport.Arena.it",
 		"Sky.Sport.Calcio.it": "Sky.Sport.Calcio.it",
 		"Sky.Sport.F1.it": "Sky.Sport.F1.it",
 		"Sky.Sport.Max.it": "Sky.Sport.Max.it",
 		"Sky.Sport.Uno.it": "Sky.Sport.Uno.it",
-		"Sky.Sport.MotoGP.it": "Sky.Sport.MotoGP.it"
-      }
-    },
-    {
-      "url": "https://www.open-epg.com/files/norway1.xml.gz",
-      "rename_channels": {
-        "TV 2 Sport 1 HD (N) (T).no": "TV 2 Sport 1 HD (N) (T).no",
-		"TV 2 Sport 2 HD (N) (T).no": "TV 2 Sport 2 HD (N) (T).no",
-		"TV 2 Sport Premium HD (N) (T).no": "TV 2 Sport Premium HD (N) (T).no",
-		"TV 2 Sport Premium 2 HD (N) (T).no": "TV 2 Sport Premium 2 HD (N) (T).no",
-		"TV3+ HD (N) (T).no": "TV3+ HD (N) (T).no",
-		"V sport 1 HD (N) (T).no": "V sport 1 HD (N) (T).no",
-		"V sport 2 HD (N) (T).no": "V sport 2 HD (N) (T).no",
-		"V sport 3 HD (N) (T).no": "V sport 3 HD (N) (T).no",
-		"V sport+ HD (N) (T).no": "V sport+ HD (N) (T).no"
-      }
-    }
+		"Sky.Sport.MotoGP.it": "Sky.Sport.MotoGP.it",
+		"4k_DIGITAL_Mono_EN.bein": "4k_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein": "beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein",
+		"beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein": "beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein",
+		"beIN_SPORTS1_DIGITAL_Mono_EN.bein": "beIN_SPORTS1_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS2_DIGITAL_Mono_EN.bein": "beIN_SPORTS2_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS3_DIGITAL_Mono_EN.bein": "beIN_SPORTS3_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS4_DIGITAL_Mono_EN.bein": "beIN_SPORTS4_DIGITAL_Mono_EN.bein",
+		"Rodja.TV.id": "Rodja.TV.id",
+		"MQTV.id": "MQTV.id",
+		"Russia.Today.in": "Russia.Today.in",
+		"Russia.Today.Doc.cz": "Russia.Today.Doc.cz",
+		"CGTN.Documentary.id": "CGTN.Documentary.id",
+		"plex.tv.ONE.Championship.TV.plex": "plex.tv.ONE.Championship.TV.plex",
+		"beIN.SPORTS.Xtra.distro": "beIN.SPORTS.Xtra.distro",
+		"Premier.Sports.Rugby.my": "Premier.Sports.Rugby.my",
+		"Redbull.Dummy.us": "Redbull.Dummy.us",
+		"TV.2.Sport.1.Norway.(NO,NO).no": "TV.2.Sport.1.Norway.(NO,NO).no",
+		"TV.2.Sport.2.Norway.(NO,NO).no": "TV.2.Sport.2.Norway.(NO,NO).no",
+		"TV.2.Sport.Premium.(NO,NO).no": "TV.2.Sport.Premium.(NO,NO).no",
+		"TV3+.Denmark.(DK,DA).no": "TV3+.Denmark.(DK,DA).no",
+		"Viasport.1.Norway.(NO,NO).no": "Viasport.1.Norway.(NO,NO).no",
+		"Viasport.2.Norway.(NO,NO).no": "Viasport.2.Norway.(NO,NO).no",
+		"Viasport.3.Norway.(NO,NO).no": "Viasport.3.Norway.(NO,NO).no",
+		"Viasport+.Norway.(NO,NO).no": "Viasport+.Norway.(NO,NO).no"
+      }		
+	}
   ]
 }
