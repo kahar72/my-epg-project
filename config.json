@@ -120,8 +120,6 @@
 		"LoveNature": "LoveNature",
 		"AXN": "AXN",
 		"Lifetime": "Lifetime",
-		"AstroPremierLeague": "AstroPremierLeague",
-		"AstroPremierLeague2": "AstroPremierLeague2",
 		"AstroSportsUHD": "AstroSportsUHD",
 		"AstroGrandstand": "AstroGrandstand",
 		"AstroFootball": "AstroFootball",
@@ -130,7 +128,6 @@
 		"AstroArenaBola": "AstroArenaBola",
 		"AstroArenaBola2": "AstroArenaBola2",
 		"AstroSportsPlus": "AstroSportsPlus",
-		"AstroCricket": "AstroCricket",
 		"PremierSports": "PremierSports",
 		"DiscoveryAsia": "DiscoveryAsia",
 		"TLC": "TLC",
@@ -185,14 +182,8 @@
       "url": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
       "rename_channels": {
         "plex.tv.ONE.Championship.TV.plex": "plex.tv.ONE.Championship.TV.plex",
-		"plex.tv.beIN.SPORTS.XTRA.plex": "plex.tv.beIN.SPORTS.XTRA.plex"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_CY1.xml.gz",
-      "rename_channels": {
-        "Russia.Today.cy": "Russia.Today.cy",
-		"RT.Doc.cy": "RT.Doc.cy"
+		"plex.tv.beIN.SPORTS.XTRA.plex": "plex.tv.beIN.SPORTS.XTRA.plex",
+		"plex.tv.CBS.Sports.Golazo.Network.plex": "plex.tv.CBS.Sports.Golazo.Network.plex"
       }
     },
     {
@@ -253,10 +244,10 @@
 		"DAZN.2.de": "DAZN.2.de",
 		"ZDF.de": "ZDF.de",
 		"ORF.1.de": "ORF.1.de",
-		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
-		"Das.Erste.de": "Das.Erste.de",
 		"ORF.2.de": "ORF.2.de",
 		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
+		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
+		"Das.Erste.de": "Das.Erste.de",
 		"Sky.Sport.Mix.de": "Sky.Sport.Mix.de",
 		"Sky.Sport.F1.de": "Sky.Sport.F1.de"
       }
@@ -329,11 +320,16 @@
 		"Boomerang.us2": "Boomerang.us2",
 		"CBS.Sports.Network.HD.us2": "CBS.Sports.Network.HD.us2",
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
-		"NBC.East.Stream.us2": "NBC.East.Stream.us2",
 		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2",
 		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
       }
 	},
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
+      "rename_channels": {
+        "WMAQ-DT.us_locals1": "WMAQ-DT.us_locals1"
+      }
+    },
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz",
       "rename_channels": {
@@ -395,23 +391,28 @@
       }
 	},
     {
-      "url": "https://www.open-epg.com/files/mexico1.xml.gz",
+      "url": "https://www.open-epg.com/files/mexico2.xml.gz",
       "rename_channels": {
         "ESPN.mx": "ESPN.mx",
 		"ESPN 2.mx": "ESPN 2.mx",
 		"ESPN 3.mx": "ESPN 3.mx",
-		"ESPN+ HD.mx": "ESPN+ HD.mx"
+		"ESPN 4.mx": "ESPN 4.mx"
       }
 	},
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
       "rename_channels": {
+		"ESPN.6.br": "ESPN.6.br"
+      }
+	},
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz",
+      "rename_channels": {
         "ESPN.br": "ESPN.br",
 		"ESPN.2.br": "ESPN.2.br",
-		"SÃ£o.Paulo/SP..ESPN.3.HD.br": "SÃ£o.Paulo/SP..ESPN.3.HD.br",
-		"SÃ£o.Paulo/SP..ESPN.4.HD.br": "SÃ£o.Paulo/SP..ESPN.4.HD.br",
-		"ESPN.5.br": "ESPN.5.br",
-		"ESPN.6.br": "ESPN.6.br"
+		"ESPN.3.br": "ESPN.3.br",
+		"ESPN.4.br": "ESPN.4.br",
+		"ESPN.5.br": "ESPN.5.br"
       }
 	},
     {
