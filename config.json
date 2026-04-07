@@ -378,7 +378,11 @@
 		"Ziggo.Sport.6.nl": "Ziggo.Sport.6.nl",
 		"NPO.1.nl": "NPO.1.nl",
 		"NPO.2.nl": "NPO.2.nl",
-		"NPO.3.nl": "NPO.3.nl"
+		"NPO.3.nl": "NPO.3.nl",
+		"ESPN.1.nl": "ESPN.1.nl",
+		"ESPN.2.nl": "ESPN.2.nl",
+		"ESPN.3.nl": "ESPN.3.nl",
+		"ESPN.4.nl": "ESPN.4.nl"
       }
 	},
     {
@@ -388,6 +392,26 @@
 		"Now.Sports.Premier.League.2.hk": "Now.Sports.Premier.League.2.hk",
 		"Now.Sports.Premier.League.3.hk": "Now.Sports.Premier.League.3.hk",
 		"Now.Sports.Premier.League.4.hk": "Now.Sports.Premier.League.4.hk"
+      }
+	},
+    {
+      "url": "https://www.open-epg.com/files/mexico1.xml.gz",
+      "rename_channels": {
+        "ESPN.mx": "ESPN.mx",
+		"ESPN 2.mx": "ESPN 2.mx",
+		"ESPN 3.mx": "ESPN 3.mx",
+		"ESPN+ HD.mx": "ESPN+ HD.mx"
+      }
+	},
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
+      "rename_channels": {
+        "ESPN.br": "ESPN.br",
+		"ESPN.2.br": "ESPN.2.br",
+		"SÃ£o.Paulo/SP..ESPN.3.HD.br": "SÃ£o.Paulo/SP..ESPN.3.HD.br",
+		"SÃ£o.Paulo/SP..ESPN.4.HD.br": "SÃ£o.Paulo/SP..ESPN.4.HD.br",
+		"ESPN.5.br": "ESPN.5.br",
+		"ESPN.6.br": "ESPN.6.br"
       }
 	},
     {
