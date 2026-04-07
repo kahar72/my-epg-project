@@ -259,7 +259,14 @@
 		"beINSports2.au": "beINSports2.au",
 		"beINSports3.au": "beINSports3.au",
 		"SBSSydney.au": "SBSSydney.au",
-		"SBSVicelandMelbourne.au": "SBSVicelandMelbourne.au"
+		"SBSVicelandMelbourne.au": "SBSVicelandMelbourne.au",
+		"FoxCricket.au": "FoxCricket.au",
+		"FoxLeague.au": "FoxLeague.au",
+		"FoxSports503.au": "FoxSports503.au",
+		"FoxFooty.au": "FoxFooty.au",
+		"FoxSports505.au": "FoxSports505.au",
+		"FoxSports506.au": "FoxSports506.au",
+		"FoxSportsMore.au": "FoxSportsMore.au"
       }
     },
     {
@@ -321,7 +328,8 @@
 		"CBS.Sports.Network.HD.us2": "CBS.Sports.Network.HD.us2",
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
 		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2",
-		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2"
+		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2",
+		"Fox.Deportes.HD.us2": "Fox.Deportes.HD.us2"
       }
 	},
     {
@@ -396,7 +404,11 @@
         "ESPN.mx": "ESPN.mx",
 		"ESPN 2.mx": "ESPN 2.mx",
 		"ESPN 3.mx": "ESPN 3.mx",
-		"ESPN 4.mx": "ESPN 4.mx"
+		"ESPN 4.mx": "ESPN 4.mx",
+		"FOX SPORTS.mx": "FOX SPORTS.mx",
+		"FOX SPORTS 2.mx": "FOX SPORTS 2.mx",
+		"FOX SPORTS 3.mx": "FOX SPORTS 3.mx",
+		"FOX SPORTS PREMIUM.mx": "FOX SPORTS PREMIUM.mx"
       }
 	},
     {
