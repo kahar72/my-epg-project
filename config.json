@@ -184,7 +184,8 @@
       "rename_channels": {
         "plex.tv.ONE.Championship.TV.plex": "plex.tv.ONE.Championship.TV.plex",
 		"plex.tv.beIN.SPORTS.XTRA.plex": "plex.tv.beIN.SPORTS.XTRA.plex",
-		"plex.tv.CBS.Sports.Golazo.Network.plex": "plex.tv.CBS.Sports.Golazo.Network.plex"
+		"plex.tv.CBS.Sports.Golazo.Network.plex": "plex.tv.CBS.Sports.Golazo.Network.plex",
+		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex"
       }
     },
     {
@@ -336,7 +337,8 @@
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
       "rename_channels": {
-        "WMAQ-DT.us_locals1": "WMAQ-DT.us_locals1"
+        "WMAQ-DT.us_locals1": "WMAQ-DT.us_locals1",
+		"KVEA-DT.us_locals1": "KVEA-DT.us_locals1"
       }
     },
     {
@@ -349,15 +351,6 @@
 		"beIN_SPORTS2_DIGITAL_Mono_EN.bein": "beIN_SPORTS2_DIGITAL_Mono_EN.bein",
 		"beIN_SPORTS3_DIGITAL_Mono_EN.bein": "beIN_SPORTS3_DIGITAL_Mono_EN.bein",
 		"beIN_SPORTS4_DIGITAL_Mono_EN.bein": "beIN_SPORTS4_DIGITAL_Mono_EN.bein"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
-      "rename_channels": {
-        "Beinsports.tr": "Beinsports.tr",
-		"Beinsports.2.tr": "Beinsports.2.tr",
-		"Beinsports.3.tr": "Beinsports.3.tr",
-		"Beinsports.4.tr": "Beinsports.4.tr"
       }
     },
     {
