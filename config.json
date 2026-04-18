@@ -352,6 +352,15 @@
       }
     },
     {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz",
+      "rename_channels": {
+        "Arena.Sport.1.HD.hr": "Arena.Sport.1.HD.hr",
+		"Arena.Sport.2.HD.hr": "Arena.Sport.2.HD.hr",
+		"Arena.Sport.3.HD.hr": "Arena.Sport.3.HD.hr",
+		"Arena.Sport.4.HD.hr": "Arena.Sport.4.HD.hr"
+      }
+    },
+    {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz",
       "rename_channels": {
         "4k_DIGITAL_Mono_EN.bein": "4k_DIGITAL_Mono_EN.bein",
