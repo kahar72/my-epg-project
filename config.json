@@ -443,15 +443,15 @@
 		"ESPN 4.mx": "ESPN 4.mx",
 		"FOX SPORTS.mx": "FOX SPORTS.mx",
 		"FOX SPORTS 2.mx": "FOX SPORTS 2.mx",
-		"FOX SPORTS 3.mx": "FOX SPORTS 3.mx",
-		"FOX SPORTS PREMIUM.mx": "FOX SPORTS PREMIUM.mx"
+		"FOX SPORTS 3.mx": "FOX SPORTS 3.mx"
       }
 	},
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
       "rename_channels": {
 		"Sky.Sports.16.mx": "Sky.Sports.16.mx",
-		"Sky.Sports.24.mx": "Sky.Sports.24.mx"
+		"Sky.Sports.24.mx": "Sky.Sports.24.mx",
+		"FOX.SPORTS.PREMIUM.mx": "FOX.SPORTS.PREMIUM.mx"
       }
 	},
     {
@@ -493,7 +493,10 @@
 		"V sport 1 HD (N) (T).no": "V sport 1 HD (N) (T).no",
 		"V sport 2 HD (N) (T).no": "V sport 2 HD (N) (T).no",
 		"V sport 3 HD (N) (T).no": "V sport 3 HD (N) (T).no",
-		"V sport+ HD (N) (T).no": "V sport+ HD (N) (T).no"
+		"V sport+ HD (N) (T).no": "V sport+ HD (N) (T).no",
+		"NRK1.Norway.(NO,NO).no": "NRK1.Norway.(NO,NO).no",
+		"NRK2.Norway.(NO,NO).no": "NRK2.Norway.(NO,NO).no",
+		"NRK3.Norway.(NO,NO).no": "NRK3.Norway.(NO,NO).no"
       }
     }
   ]
