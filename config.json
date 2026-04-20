@@ -185,7 +185,9 @@
         "plex.tv.ONE.Championship.TV.plex": "plex.tv.ONE.Championship.TV.plex",
 		"plex.tv.beIN.SPORTS.XTRA.plex": "plex.tv.beIN.SPORTS.XTRA.plex",
 		"plex.tv.CBS.Sports.Golazo.Network.plex": "plex.tv.CBS.Sports.Golazo.Network.plex",
-		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex"
+		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex".
+		"plex.tv.Modern.Marvels.by.History.plex": "plex.tv.Modern.Marvels.by.History.plex",
+		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex"
       }
     },
     {
@@ -348,7 +350,10 @@
       "rename_channels": {
         "Arena.Premium.1.HD.(RS).rs": "Arena.Premium.1.HD.(RS).rs",
 		"Arena.Premium.2.HD.(RS).rs": "Arena.Premium.2.HD.(RS).rs",
-		"Arena.Premium.3.HD.(RS).rs": "Arena.Premium.3.HD.(RS).rs"
+		"Arena.Premium.3.HD.(RS).rs": "Arena.Premium.3.HD.(RS).rs",
+		"RTS.1.HD.rs": "RTS.1.HD.rs",
+		"RTS.2.HD.rs": "RTS.2.HD.rs",
+		"RTS.3.HD.rs": "RTS.3.HD.rs"
       }
     },
     {
@@ -357,7 +362,18 @@
         "Arena.Sport.1.HD.hr": "Arena.Sport.1.HD.hr",
 		"Arena.Sport.2.HD.hr": "Arena.Sport.2.HD.hr",
 		"Arena.Sport.3.HD.hr": "Arena.Sport.3.HD.hr",
-		"Arena.Sport.4.HD.hr": "Arena.Sport.4.HD.hr"
+		"Arena.Sport.4.HD.hr": "Arena.Sport.4.HD.hr",
+		"HTV1.HD.hr": "HTV1.HD.hr",
+		"HTV2.HD.hr": "HTV2.HD.hr"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz",
+      "rename_channels": {
+        "Nova.cz": "Nova.cz",
+		"Nova.Action.cz": "Nova.Action.cz",
+		"Oneplay.Sport.1.cz": "Oneplay.Sport.1.cz",
+		"Oneplay.Sport.2.cz": "Oneplay.Sport.2.cz"
       }
     },
     {
@@ -378,6 +394,13 @@
         "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
 		"beIN.SPORTS.2.fr": "beIN.SPORTS.2.fr",
 		"beIN.SPORTS.3.fr": "beIN.SPORTS.3.fr",
+		"beIN.SPORTS.MAX.4.fr": "beIN.SPORTS.MAX.4.fr",
+		"beIN.SPORTS.MAX.5.fr": "beIN.SPORTS.MAX.5.fr",
+		"beIN.SPORTS.MAX.6.fr": "beIN.SPORTS.MAX.6.fr",
+		"beIN.SPORTS.MAX.7.fr": "beIN.SPORTS.MAX.7.fr",
+		"beIN.SPORTS.MAX.8.fr": "beIN.SPORTS.MAX.8.fr",
+		"beIN.SPORTS.MAX.9.fr": "beIN.SPORTS.MAX.9.fr",
+		"beIN.SPORTS.MAX.10.fr": "beIN.SPORTS.MAX.10.fr",
 		"TF1.fr": "TF1.fr",
 		"TFX.fr": "TFX.fr",
 		"M6.fr": "M6.fr",
