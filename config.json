@@ -187,7 +187,8 @@
 		"plex.tv.CBS.Sports.Golazo.Network.plex": "plex.tv.CBS.Sports.Golazo.Network.plex",
 		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex",
 		"plex.tv.Modern.Marvels.by.History.plex": "plex.tv.Modern.Marvels.by.History.plex",
-		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex"
+		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex",
+		"plex.tv.F1.Channel.plex": "plex.tv.F1.Channel.plex"
       }
     },
     {
@@ -449,7 +450,11 @@
       "rename_channels": {
 		"Sky.Sports.16.mx": "Sky.Sports.16.mx",
 		"Sky.Sports.24.mx": "Sky.Sports.24.mx",
-		"FOX.SPORTS.PREMIUM.mx": "FOX.SPORTS.PREMIUM.mx"
+		"FOX.SPORTS.PREMIUM.mx": "FOX.SPORTS.PREMIUM.mx",
+		"Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx": "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx",
+		"Canal.Azteca.Uno.mx": "Canal.Azteca.Uno.mx",
+		"Canal.TUDN.(MÃ©xico).mx": "Canal.TUDN.(MÃ©xico).mx",
+		"Canal.2.de.MÃ©xico.(Canal.Las.Estrellas.-.XEW).mx": "Canal.2.de.MÃ©xico.(Canal.Las.Estrellas.-.XEW).mx"
       }
 	},
     {
