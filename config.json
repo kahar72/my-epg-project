@@ -188,7 +188,8 @@
 		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex",
 		"plex.tv.Modern.Marvels.by.History.plex": "plex.tv.Modern.Marvels.by.History.plex",
 		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex",
-		"plex.tv.F1.Channel.plex": "plex.tv.F1.Channel.plex"
+		"plex.tv.F1.Channel.plex": "plex.tv.F1.Channel.plex",
+		"plex.tv.Rakuten.Viki.plex": "plex.tv.Rakuten.Viki.plex"
       }
     },
     {
@@ -483,6 +484,14 @@
 		"Sky.Sport.Max.it": "Sky.Sport.Max.it",
 		"Sky.Sport.Uno.it": "Sky.Sport.Uno.it",
 		"Sky.Sport.MotoGP.it": "Sky.Sport.MotoGP.it"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz",
+      "rename_channels": {
+        "DSPORTS.(ARG).dtvsp": "DSPORTS.(ARG).dtvsp",
+		"DSPORTS.2.HD.dtvsp": "DSPORTS.2.HD.dtvsp",
+		"DSPORTS.+.HD.dtvsp": "DSPORTS.+.HD.dtvsp"
       }
     },
     {
