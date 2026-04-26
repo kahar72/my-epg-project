@@ -255,7 +255,12 @@
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
 		"Das.Erste.de": "Das.Erste.de",
 		"Sky.Sport.Mix.de": "Sky.Sport.Mix.de",
-		"Sky.Sport.F1.de": "Sky.Sport.F1.de"
+		"Sky.Sport.F1.de": "Sky.Sport.F1.de",
+		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de",
+		"Sky.Sport.Bundesliga.1.de": "Sky.Sport.Bundesliga.1.de",
+		"Sky.Sport.Bundesliga.2.de": "Sky.Sport.Bundesliga.2.de",
+		"Sky.Sport.Bundesliga.3.de": "Sky.Sport.Bundesliga.3.de",
+		"Sky.Sport.Bundesliga.4.de": "Sky.Sport.Bundesliga.4.de"
       }
     },
     {
@@ -377,18 +382,6 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz",
-      "rename_channels": {
-        "4k_DIGITAL_Mono_EN.bein": "4k_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein": "beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein",
-		"beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein": "beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein",
-		"beIN_SPORTS1_DIGITAL_Mono_EN.bein": "beIN_SPORTS1_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS2_DIGITAL_Mono_EN.bein": "beIN_SPORTS2_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS3_DIGITAL_Mono_EN.bein": "beIN_SPORTS3_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS4_DIGITAL_Mono_EN.bein": "beIN_SPORTS4_DIGITAL_Mono_EN.bein"
-      }
-    },
-    {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
       "rename_channels": {
         "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
@@ -487,11 +480,19 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz",
       "rename_channels": {
-        "DSPORTS.(ARG).dtvsp": "DSPORTS.(ARG).dtvsp",
-		"DSPORTS.2.HD.dtvsp": "DSPORTS.2.HD.dtvsp",
-		"DSPORTS.+.HD.dtvsp": "DSPORTS.+.HD.dtvsp"
+        "DSPORTS.HD.(COL)(DTSCHD).co": "DSPORTS.HD.(COL)(DTSCHD).co",
+		"DSPORTS.2.HD(DTV2HD).co": "DSPORTS.2.HD(DTV2HD).co",
+		"DSPORTS.+.HD(DTS+HD).co": "DSPORTS.+.HD(DTS+HD).co"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz",
+      "rename_channels": {
+        "VTV1.HD.vn": "VTV1.HD.vn",
+		"VTV2.HD.vn": "VTV2.HD.vn",
+		"VTV3.HD.vn": "VTV3.HD.vn"
       }
     },
     {
