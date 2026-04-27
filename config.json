@@ -484,7 +484,14 @@
       "rename_channels": {
         "DSPORTS.HD.(COL)(DTSCHD).co": "DSPORTS.HD.(COL)(DTSCHD).co",
 		"DSPORTS.2.HD(DTV2HD).co": "DSPORTS.2.HD(DTV2HD).co",
-		"DSPORTS.+.HD(DTS+HD).co": "DSPORTS.+.HD(DTS+HD).co"
+		"DSPORTS.+.HD(DTS+HD).co": "DSPORTS.+.HD(DTS+HD).co",
+		"ESPN.co": "ESPN.co",
+		"ESPN.2.co": "ESPN.2.co",
+		"ESPN.3.co": "ESPN.3.co",
+		"ESPN.4.co": "ESPN.4.co",
+		"ESPN.5.co": "ESPN.5.co",
+		"ESPN.6.HD.co": "ESPN.6.HD.co",
+		"ESPN.7.HD.co": "ESPN.7.HD.co"
       }
     },
     {
