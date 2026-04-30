@@ -148,9 +148,9 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
       "rename_channels": {
-        "Premier.Sports.Rugby.my": "Premier.Sports.Rugby.my"
+        "UK:.Rakuten.VIKI.be": "UK:.Rakuten.VIKI.be"
       }
     },
     {
