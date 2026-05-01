@@ -188,8 +188,7 @@
 		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex",
 		"plex.tv.Modern.Marvels.by.History.plex": "plex.tv.Modern.Marvels.by.History.plex",
 		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex",
-		"plex.tv.F1.Channel.plex": "plex.tv.F1.Channel.plex",
-		"plex.tv.Rakuten.Viki.plex": "plex.tv.Rakuten.Viki.plex"
+		"plex.tv.F1.Channel.plex": "plex.tv.F1.Channel.plex"
       }
     },
     {
@@ -260,7 +259,25 @@
 		"Sky.Sport.Bundesliga.1.de": "Sky.Sport.Bundesliga.1.de",
 		"Sky.Sport.Bundesliga.2.de": "Sky.Sport.Bundesliga.2.de",
 		"Sky.Sport.Bundesliga.3.de": "Sky.Sport.Bundesliga.3.de",
-		"Sky.Sport.Bundesliga.4.de": "Sky.Sport.Bundesliga.4.de"
+		"Sky.Sport.Bundesliga.4.de": "Sky.Sport.Bundesliga.4.de",
+		"Sport.1.-.myTeamTV.de": "Sport.1.-.myTeamTV.de",
+		"Sport.2.-.myTeamTV.de": "Sport.2.-.myTeamTV.de",
+		"Sport.3.-.myTeamTV.de": "Sport.3.-.myTeamTV.de",
+		"Sport.4.-.myTeamTV.de": "Sport.4.-.myTeamTV.de",
+		"Sport.5.-.myTeamTV.de": "Sport.5.-.myTeamTV.de",
+		"Sport.6.-.myTeamTV.de": "Sport.6.-.myTeamTV.de",
+		"Sport.7.-.myTeamTV.de": "Sport.7.-.myTeamTV.de",
+		"Sport.8.-.myTeamTV.de": "Sport.8.-.myTeamTV.de",
+		"Sport.9.-.myTeamTV.de": "Sport.9.-.myTeamTV.de",
+		"Sport.10.-.myTeamTV.de": "Sport.10.-.myTeamTV.de",
+		"Sport.11.-.myTeamTV.de": "Sport.11.-.myTeamTV.de",
+		"Sport.12.-.myTeamTV.de": "Sport.12.-.myTeamTV.de",
+		"Sport.13.-.myTeamTV.de": "Sport.13.-.myTeamTV.de",
+		"Sport.14.-.myTeamTV.de": "Sport.14.-.myTeamTV.de",
+		"Sport.15.-.myTeamTV.de": "Sport.15.-.myTeamTV.de",
+		"Sport.16.-.myTeamTV.de": "Sport.16.-.myTeamTV.de",
+		"Sport.17.-.myTeamTV.de": "Sport.17.-.myTeamTV.de",
+		"Sport.18.-.myTeamTV.de": "Sport.18.-.myTeamTV.de"
       }
     },
     {
@@ -290,9 +307,8 @@
 		"TSN.3.ca2": "TSN.3.ca2",
 		"TSN.4.ca2": "TSN.4.ca2",
 		"TSN.5.ca2": "TSN.5.ca2",
-		"CTV.Edmonton.HD.ca2": "CTV.Edmonton.HD.ca2",
-		"RÃ©seau.des.Sports.(RDS).ca2": "RÃ©seau.des.Sports.(RDS).ca2",
-		"RDS2.ca2": "RDS2.ca2"
+		"CTV.Calgary.ca2": "CTV.Calgary.ca2",
+		"RÃ©seau.des.Sports.(RDS).HD.ca2": "RÃ©seau.des.Sports.(RDS).HD.ca2"
       }
     },
     {
@@ -347,7 +363,8 @@
       "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
       "rename_channels": {
         "WMAQ-DT.us_locals1": "WMAQ-DT.us_locals1",
-		"KVEA-DT.us_locals1": "KVEA-DT.us_locals1"
+		"KVEA-DT.us_locals1": "KVEA-DT.us_locals1",
+		"WNYW-DT.us_locals1": "WNYW-DT.us_locals1"
       }
     },
     {
@@ -436,7 +453,9 @@
 		"ESPN 4.mx": "ESPN 4.mx",
 		"FOX SPORTS.mx": "FOX SPORTS.mx",
 		"FOX SPORTS 2.mx": "FOX SPORTS 2.mx",
-		"FOX SPORTS 3.mx": "FOX SPORTS 3.mx"
+		"FOX SPORTS 3.mx": "FOX SPORTS 3.mx",
+		"CANAL 5.mx": "CANAL 5.mx",
+		"CANAL DE LAS ESTRELLAS.mx": "CANAL DE LAS ESTRELLAS.mx"
       }
 	},
     {
@@ -446,9 +465,7 @@
 		"Sky.Sports.24.mx": "Sky.Sports.24.mx",
 		"FOX.SPORTS.PREMIUM.mx": "FOX.SPORTS.PREMIUM.mx",
 		"Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx": "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx",
-		"Canal.Azteca.Uno.mx": "Canal.Azteca.Uno.mx",
-		"Canal.TUDN.(MÃ©xico).mx": "Canal.TUDN.(MÃ©xico).mx",
-		"Canal.2.de.MÃ©xico.(Canal.Las.Estrellas.-.XEW).mx": "Canal.2.de.MÃ©xico.(Canal.Las.Estrellas.-.XEW).mx"
+		"Canal.TUDN.(MÃ©xico).mx": "Canal.TUDN.(MÃ©xico).mx"
       }
 	},
     {
@@ -482,9 +499,9 @@
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz",
       "rename_channels": {
-        "DSPORTS.HD.(COL)(DTSCHD).co": "DSPORTS.HD.(COL)(DTSCHD).co",
-		"DSPORTS.2.HD(DTV2HD).co": "DSPORTS.2.HD(DTV2HD).co",
-		"DSPORTS.+.HD(DTS+HD).co": "DSPORTS.+.HD(DTS+HD).co",
+        "DIRECTV.Sports.5(DTS6).co": "DIRECTV.Sports.5(DTS6).co",
+		"DSPORTS.2.(DTS2).co": "DSPORTS.2.(DTS2).co",
+		"DSPORTS.+(DTS+).co": "DSPORTS.+(DTS+).co",
 		"ESPN.co": "ESPN.co",
 		"ESPN.2.co": "ESPN.2.co",
 		"ESPN.3.co": "ESPN.3.co",
@@ -499,7 +516,16 @@
       "rename_channels": {
         "VTV1.HD.vn": "VTV1.HD.vn",
 		"VTV2.HD.vn": "VTV2.HD.vn",
-		"VTV3.HD.vn": "VTV3.HD.vn"
+		"VTV3.HD.vn": "VTV3.HD.vn",
+		"VTV5.HD.vn": "VTV5.HD.vn",
+		"VTV10.(HD).vn": "VTV10.(HD).vn"
+      }
+    },
+    {
+      "url": "https://www.open-epg.com/files/bulgaria2.xml.gz",
+      "rename_channels": {
+        "Ð‘ÐÐ¢ 1 HD.bg": "Ð‘ÐÐ¢ 1 HD.bg",
+		"Ð‘ÐÐ¢ 3 HD.bg": "Ð‘ÐÐ¢ 3 HD.bg"
       }
     },
     {
@@ -514,9 +540,9 @@
 		"V sport 2 HD (N) (T).no": "V sport 2 HD (N) (T).no",
 		"V sport 3 HD (N) (T).no": "V sport 3 HD (N) (T).no",
 		"V sport+ HD (N) (T).no": "V sport+ HD (N) (T).no",
-		"NRK1.Norway.(NO,NO).no": "NRK1.Norway.(NO,NO).no",
-		"NRK2.Norway.(NO,NO).no": "NRK2.Norway.(NO,NO).no",
-		"NRK3.Norway.(NO,NO).no": "NRK3.Norway.(NO,NO).no"
+		"NRK1 HD (T).no": "NRK1 HD (T).no",
+		"NRK2 HD (T).no": "NRK2 HD (T).no",
+		"NRK3/ NRK Super HD (T).no": "NRK3/ NRK Super HD (T).no"
       }
     }
   ]
