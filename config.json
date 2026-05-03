@@ -541,13 +541,26 @@
 		"Eleven.Sports.2.HD.pl": "Eleven.Sports.2.HD.pl",
 		"Eleven.Sports.3.HD.pl": "Eleven.Sports.3.HD.pl",
 		"Eleven.Sports.4.HD.pl": "Eleven.Sports.4.HD.pl",
-		"Polsat.Sport.HD.pl": "Polsat.Sport.HD.pl",
 		"Polsat.Sport.Premium.1.pl": "Polsat.Sport.Premium.1.pl",
 		"Polsat.Sport.Premium.2.pl": "Polsat.Sport.Premium.2.pl",
 		"Polsat.Sport.Premium.3.pl": "Polsat.Sport.Premium.3.pl",
 		"Polsat.Sport.Premium.4.pl": "Polsat.Sport.Premium.4.pl",
 		"Polsat.Sport.Premium.5.pl": "Polsat.Sport.Premium.5.pl",
 		"Polsat.Sport.Premium.6.pl": "Polsat.Sport.Premium.6.pl"
+      }
+    },
+    {
+      "url": "https://www.open-epg.com/files/poland1.xml.gz",
+      "rename_channels": {
+        "Polsat Sport 1 HD.pl": "Polsat Sport 1 HD.pl",
+		"Polsat Sport 2 HD.pl": "Polsat Sport 2 HD.pl",
+		"Polsat Sport 3 HD.pl": "Polsat Sport 3 HD.pl"
+      }
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
+      "rename_channels": {
+        "LALIGA.TV.BAR.es": "LALIGA.TV.BAR.es"
       }
     },
     {
