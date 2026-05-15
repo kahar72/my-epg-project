@@ -363,7 +363,8 @@
       "rename_channels": {
         "WNBC-DT.us_locals1": "WNBC-DT.us_locals1",
 		"KVEA-DT.us_locals1": "KVEA-DT.us_locals1",
-		"WNYW-DT.us_locals1": "WNYW-DT.us_locals1"
+		"WNYW-DT.us_locals1": "WNYW-DT.us_locals1",
+		"WRGT-DT.us_locals1": "WRGT-DT.us_locals1"
       }
     },
     {
