@@ -448,6 +448,22 @@
       }
     },
     {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz",
+      "rename_channels": {
+        "beIN_SPORTS1_DIGITAL_Mono_EN.bein": "beIN_SPORTS1_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS2_DIGITAL_Mono_EN.bein": "beIN_SPORTS2_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS3_DIGITAL_Mono_EN.bein": "beIN_SPORTS3_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS4_DIGITAL_Mono_EN.bein": "beIN_SPORTS4_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS5_DIGITAL_Mono_EN.bein": "beIN_SPORTS5_DIGITAL_Mono_EN.bein",
+		"beIN_SPORTS66_DIGITAL_Mono-01_EN.bein": "beIN_SPORTS66_DIGITAL_Mono-01_EN.bein",
+		"beIN_SPORTS7_DIGITAL_Mono_EN.bein": "beIN_SPORTS7_DIGITAL_Mono_EN.bein",
+		"logos-_beINSPORTS8_EN.bein": "logos-_beINSPORTS8_EN.bein",
+		"logos-_beINSPORTS9_EN.bein": "logos-_beINSPORTS9_EN.bein",
+		"beIN_SPORTS_XTRA1_Digital_Mono_EN.bein": "beIN_SPORTS_XTRA1_Digital_Mono_EN.bein",
+		"beIN_SPORTS_XTRA2_Digital_Mono_EN.bein": "beIN_SPORTS_XTRA2_Digital_Mono_EN.bein"
+      }
+    },
+    {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
       "rename_channels": {
         "RTE.Two.HD.ie": "RTE.Two.HD.ie"
