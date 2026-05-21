@@ -85,7 +85,6 @@
 		"AstroRia": "AstroRia",
 		"AstroPrima": "AstroPrima",
 		"AstroOasis": "AstroOasis",
-		"AstroCitra": "AstroCitra",
 		"TVSUKAN": "TVSUKAN",
 		"TV6": "TV6",
 		"TVAlhijrah": "TVAlhijrah",
@@ -120,31 +119,18 @@
 		"LoveNature": "LoveNature",
 		"AXN": "AXN",
 		"Lifetime": "Lifetime",
-		"AstroSportsUHD": "AstroSportsUHD",
+		"ROCKACtion": "ROCKACtion",
 		"AstroGrandstand": "AstroGrandstand",
 		"AstroFootball": "AstroFootball",
 		"AstroArena": "AstroArena",
 		"AstroArena2": "AstroArena2",
-		"AstroArenaBola": "AstroArenaBola",
+		"ROCKXStream": "ROCKXStream",
 		"AstroArenaBola2": "AstroArenaBola2",
 		"AstroSportsPlus": "AstroSportsPlus",
 		"PremierSports": "PremierSports",
 		"DiscoveryAsia": "DiscoveryAsia",
 		"TLC": "TLC",
 		"AFN": "AFN"
-      }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml",
-      "rename_channels": {
-        "108": "UTV-108",
-        "109": "UTV-109",
-        "113": "UTV-113",
-        "118": "UTV-118",
-        "116": "UTV-116",
-        "141": "UTV-141",
-        "120": "UTV-120",
-        "701": "UTV-701"
       }
     },
     {
@@ -167,8 +153,7 @@
 		"RTV.id": "RTV.id",
 		"MDTV.id": "MDTV.id",
 		"Metro TV.id": "Metro TV.id",
-		"Moji.id": "Moji.id",
-		"Maxstream.id": "Maxstream.id"
+		"Moji.id": "Moji.id"
       }
     },
     {
@@ -205,7 +190,6 @@
 		"TNT.Sports.2.HD.uk": "TNT.Sports.2.HD.uk",
 		"TNT.Sports.3.HD.uk": "TNT.Sports.3.HD.uk",
 		"TNT.Sports.4.HD.uk": "TNT.Sports.4.HD.uk",
-		"TNT.Sports.Ultimate.HD.uk": "TNT.Sports.Ultimate.HD.uk",
 		"SkySp.Fball.HD.uk": "SkySp.Fball.HD.uk",
 		"SkySp+HD.uk": "SkySp+HD.uk",
 		"SkySp.F1.HD.uk": "SkySp.F1.HD.uk",
@@ -235,8 +219,7 @@
 		"Sky.Sport.9.nz": "Sky.Sport.9.nz",
 		"Sky.Sport.Select.nz": "Sky.Sport.Select.nz",
 		"ESPN..nz": "ESPN..nz",
-		"ESPN2.nz": "ESPN2.nz",
-		"TVNZ.1.nz": "TVNZ.1.nz"
+		"ESPN2.nz": "ESPN2.nz"
       }
     },
     {
@@ -253,8 +236,6 @@
 		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
 		"Das.Erste.de": "Das.Erste.de",
-		"Sky.Sport.Mix.de": "Sky.Sport.Mix.de",
-		"Sky.Sport.F1.de": "Sky.Sport.F1.de",
 		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de",
 		"Sky.Sport.Bundesliga.1.de": "Sky.Sport.Bundesliga.1.de",
 		"Sky.Sport.Bundesliga.2.de": "Sky.Sport.Bundesliga.2.de",
@@ -285,14 +266,7 @@
       "rename_channels": {
         "beINSports1.au": "beINSports1.au",
 		"beINSports2.au": "beINSports2.au",
-		"beINSports3.au": "beINSports3.au",
-		"FoxCricket.au": "FoxCricket.au",
-		"FoxLeague.au": "FoxLeague.au",
-		"FoxSports503.au": "FoxSports503.au",
-		"FoxFooty.au": "FoxFooty.au",
-		"FoxSports505.au": "FoxSports505.au",
-		"FoxSports506.au": "FoxSports506.au",
-		"FoxSportsMore.au": "FoxSportsMore.au"
+		"beINSports3.au": "beINSports3.au"
       }
     },
     {
@@ -305,8 +279,6 @@
 		"TSN.1.ca2": "TSN.1.ca2",
 		"TSN.2.ca2": "TSN.2.ca2",
 		"TSN.3.ca2": "TSN.3.ca2",
-		"TSN.4.ca2": "TSN.4.ca2",
-		"TSN.5.ca2": "TSN.5.ca2",
 		"CTV.Toronto.HD.ca2": "CTV.Toronto.HD.ca2"
       }
     },
@@ -333,9 +305,6 @@
 		"ESPN.HD.us2": "ESPN.HD.us2",
 		"ESPN2.HD.us2": "ESPN2.HD.us2",
 		"NFL.Network.HD.us2": "NFL.Network.HD.us2",
-		"NFL.RedZone.HD.us2": "NFL.RedZone.HD.us2",
-		"NBC.Sports.Bay.Area.HD.us2": "NBC.Sports.Bay.Area.HD.us2",
-		"NBC.Sports.Now.us2": "NBC.Sports.Now.us2",
 		"Curiosity.NOW.us2": "Curiosity.NOW.us2",
 		"ABC.News.Live.us2": "ABC.News.Live.us2",
 		"Smithsonian.HD.Network.us2": "Smithsonian.HD.Network.us2",
@@ -362,7 +331,7 @@
       "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
       "rename_channels": {
         "WNBC-DT.us_locals1": "WNBC-DT.us_locals1",
-		"KVEA-DT.us_locals1": "KVEA-DT.us_locals1",
+		"WNEU-DT.us_locals1": "WNEU-DT.us_locals1",
 		"WNYW-DT.us_locals1": "WNYW-DT.us_locals1",
 		"WRGT-DT.us_locals1": "WRGT-DT.us_locals1"
       }
@@ -372,10 +341,7 @@
       "rename_channels": {
         "Arena.Premium.1.HD.(RS).rs": "Arena.Premium.1.HD.(RS).rs",
 		"Arena.Premium.2.HD.(RS).rs": "Arena.Premium.2.HD.(RS).rs",
-		"Arena.Premium.3.HD.(RS).rs": "Arena.Premium.3.HD.(RS).rs",
-		"RTS.1.HD.rs": "RTS.1.HD.rs",
-		"RTS.2.HD.rs": "RTS.2.HD.rs",
-		"RTS.3.HD.rs": "RTS.3.HD.rs"
+		"Arena.Premium.3.HD.(RS).rs": "Arena.Premium.3.HD.(RS).rs"
       }
     },
     {
@@ -384,18 +350,7 @@
         "Arena.Sport.1.HD.hr": "Arena.Sport.1.HD.hr",
 		"Arena.Sport.2.HD.hr": "Arena.Sport.2.HD.hr",
 		"Arena.Sport.3.HD.hr": "Arena.Sport.3.HD.hr",
-		"Arena.Sport.4.HD.hr": "Arena.Sport.4.HD.hr",
-		"HTV1.HD.hr": "HTV1.HD.hr",
-		"HTV2.HD.hr": "HTV2.HD.hr"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz",
-      "rename_channels": {
-        "Nova.cz": "Nova.cz",
-		"Nova.Action.cz": "Nova.Action.cz",
-		"Oneplay.Sport.1.cz": "Oneplay.Sport.1.cz",
-		"Oneplay.Sport.2.cz": "Oneplay.Sport.2.cz"
+		"Arena.Sport.4.HD.hr": "Arena.Sport.4.HD.hr"
       }
     },
     {
@@ -404,13 +359,6 @@
         "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
 		"beIN.SPORTS.2.fr": "beIN.SPORTS.2.fr",
 		"beIN.SPORTS.3.fr": "beIN.SPORTS.3.fr",
-		"beIN.SPORTS.MAX.4.fr": "beIN.SPORTS.MAX.4.fr",
-		"beIN.SPORTS.MAX.5.fr": "beIN.SPORTS.MAX.5.fr",
-		"beIN.SPORTS.MAX.6.fr": "beIN.SPORTS.MAX.6.fr",
-		"beIN.SPORTS.MAX.7.fr": "beIN.SPORTS.MAX.7.fr",
-		"beIN.SPORTS.MAX.8.fr": "beIN.SPORTS.MAX.8.fr",
-		"beIN.SPORTS.MAX.9.fr": "beIN.SPORTS.MAX.9.fr",
-		"beIN.SPORTS.MAX.10.fr": "beIN.SPORTS.MAX.10.fr",
 		"TF1.fr": "TF1.fr",
 		"TFX.fr": "TFX.fr",
 		"M6.fr": "M6.fr",
@@ -436,72 +384,14 @@
       }
 	},
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz",
-      "rename_channels": {
-        "Now.Sports.Premier.League.1.hk": "Now.Sports.Premier.League.1.hk",
-		"Now.Sports.Premier.League.2.hk": "Now.Sports.Premier.League.2.hk",
-		"Now.Sports.Premier.League.3.hk": "Now.Sports.Premier.League.3.hk",
-		"Now.Sports.Premier.League.4.hk": "Now.Sports.Premier.League.4.hk"
-      }
-	},
-    {
-      "url": "https://www.open-epg.com/files/mexico2.xml.gz",
-      "rename_channels": {
-        "ESPN.mx": "ESPN.mx",
-		"ESPN 2.mx": "ESPN 2.mx",
-		"ESPN 3.mx": "ESPN 3.mx",
-		"ESPN 4.mx": "ESPN 4.mx",
-		"FOX SPORTS.mx": "FOX SPORTS.mx",
-		"FOX SPORTS 2.mx": "FOX SPORTS 2.mx",
-		"FOX SPORTS 3.mx": "FOX SPORTS 3.mx",
-		"CANAL 5.mx": "CANAL 5.mx",
-		"CANAL DE LAS ESTRELLAS.mx": "CANAL DE LAS ESTRELLAS.mx"
-      }
-	},
-    {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
       "rename_channels": {
-		"Sky.Sports.16.mx": "Sky.Sports.16.mx",
-		"Sky.Sports.24.mx": "Sky.Sports.24.mx",
-		"FOX.SPORTS.PREMIUM.mx": "FOX.SPORTS.PREMIUM.mx",
-		"Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx": "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx",
-		"Canal.TUDN.(MÃ©xico).mx": "Canal.TUDN.(MÃ©xico).mx"
+		"Sky.Sports.16.mx": "Sky.Sports.16.mx"
       }
 	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
-      "rename_channels": {
-		"ESPN.6.br": "ESPN.6.br"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz",
-      "rename_channels": {
-        "ESPN.br": "ESPN.br",
-		"ESPN.2.br": "ESPN.2.br",
-		"ESPN.3.br": "ESPN.3.br",
-		"ESPN.4.br": "ESPN.4.br",
-		"ESPN.5.br": "ESPN.5.br"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
-      "rename_channels": {
-        "Sky.Sport.24.it": "Sky.Sport.24.it",
-		"Sky.Sport.Arena.it": "Sky.Sport.Arena.it",
-		"Sky.Sport.Calcio.it": "Sky.Sport.Calcio.it",
-		"Sky.Sport.F1.it": "Sky.Sport.F1.it",
-		"Sky.Sport.Max.it": "Sky.Sport.Max.it",
-		"Sky.Sport.Uno.it": "Sky.Sport.Uno.it",
-		"Sky.Sport.MotoGP.it": "Sky.Sport.MotoGP.it"
-      }
-    },
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz",
       "rename_channels": {
-        "DIRECTV.Sports.5(DTS6).co": "DIRECTV.Sports.5(DTS6).co",
-		"DSPORTS.2.(DTS2).co": "DSPORTS.2.(DTS2).co",
-		"DSPORTS.+(DTS+).co": "DSPORTS.+(DTS+).co",
 		"ESPN.co": "ESPN.co",
 		"ESPN.2.co": "ESPN.2.co",
 		"ESPN.3.co": "ESPN.3.co",
@@ -519,13 +409,6 @@
 		"VTV3.HD.vn": "VTV3.HD.vn",
 		"VTV5.HD.vn": "VTV5.HD.vn",
 		"VTV10.(HD).vn": "VTV10.(HD).vn"
-      }
-    },
-    {
-      "url": "https://www.open-epg.com/files/bulgaria2.xml.gz",
-      "rename_channels": {
-        "Ð‘ÐÐ¢ 1 HD.bg": "Ð‘ÐÐ¢ 1 HD.bg",
-		"Ð‘ÐÐ¢ 3 HD.bg": "Ð‘ÐÐ¢ 3 HD.bg"
       }
     },
     {
@@ -560,30 +443,13 @@
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
       "rename_channels": {
-        "LALIGA.TV.BAR.es": "LALIGA.TV.BAR.es"
+        "DAZN.LALIGA.es": "DAZN.LALIGA.es"
       }
     },
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
       "rename_channels": {
         "RTE.Two.HD.ie": "RTE.Two.HD.ie"
-      }
-    },
-    {
-      "url": "https://www.open-epg.com/files/norway1.xml.gz",
-      "rename_channels": {
-        "TV 2 Sport 1 HD (N) (T).no": "TV 2 Sport 1 HD (N) (T).no",
-		"TV 2 Sport 2 HD (N) (T).no": "TV 2 Sport 2 HD (N) (T).no",
-		"TV 2 Sport Premium HD (N) (T).no": "TV 2 Sport Premium HD (N) (T).no",
-		"TV 2 Sport Premium 2 HD (N) (T).no": "TV 2 Sport Premium 2 HD (N) (T).no",
-		"TV3+ HD (N) (T).no": "TV3+ HD (N) (T).no",
-		"V sport 1 HD (N) (T).no": "V sport 1 HD (N) (T).no",
-		"V sport 2 HD (N) (T).no": "V sport 2 HD (N) (T).no",
-		"V sport 3 HD (N) (T).no": "V sport 3 HD (N) (T).no",
-		"V sport+ HD (N) (T).no": "V sport+ HD (N) (T).no",
-		"NRK1 HD (T).no": "NRK1 HD (T).no",
-		"NRK2 HD (T).no": "NRK2 HD (T).no",
-		"NRK3/ NRK Super HD (T).no": "NRK3/ NRK Super HD (T).no"
       }
     }
   ]
