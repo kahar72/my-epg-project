@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="MyCloudEPG (Thursday, 21 May 2026 - 11:50 AM SGT)"><channel id="102">
+<tv generator-info-name="MyCloudEPG (Thursday, 21 May 2026 - 12:11 PM SGT)"><channel id="102">
 		<display-name>Channel 5 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=272" />
 	</channel>
@@ -273334,6 +273334,12 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WRGT-DT</display-name>
   </channel>
+  <channel id="KOKH-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KOKH-DT</display-name>
+  </channel>
   <channel id="WNYW-DT.us_locals1">
     <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
@@ -282690,6 +282696,2506 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
       <value>A14</value>
     </rating>
   </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520050000 +0000" stop="20260520053000 +0000">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Young Love, Old Love and Take This Job and Shove It</sub-title>
+    <desc lang="en">Darlene worries about Mark making friends at his new school; Mark turns to Ben for personal advice; Becky finds herself thriving in college and starts thinking about her future plans.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520053000 +0000" stop="20260520060000 +0000">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Look at Me, Mommy, I'm Pretty</sub-title>
+    <desc lang="en">Alan plans Evelyn's wedding; Charlie pursues his future stepsister.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <director>Joel Zwick</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895743_b_h10_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520060000 +0000" stop="20260520070000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Mandy Moore drops by; Kyle Cooke is here; the hosts open up "The Inbox"!</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Mandy Moore</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E187</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520070000 +0000" stop="20260520080000 +0000">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Brothers Square Off in Court.".</desc>
+    <credits>
+      <actor>Marilyn Milian</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E143</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520080000 +0000" stop="20260520090000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman sues her former roommate over damages to her couch and fur coat; the defendant criticizes the plaintiff's dating life.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E143</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520090000 +0000" stop="20260520093000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">$40,000 Car Hangs in the Balance!; Collegiate Car Crash!</sub-title>
+    <desc lang="en">Lovers "playing house" break Judge Judy's #1 rule and go in together to buy a new vehicle, and a $28,000 balance remains after their breakup; a college student accuses an uninsured motorist of ignoring an on-campus stop sign and crashing into him.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E68</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520093000 +0000" stop="20260520100000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Shady Dog Thief?!; Niece and Nephew Bailout!</sub-title>
+    <desc lang="en">A teenager accuses her 32-year-old ex-boyfriend of stealing her dog; a woman tries to help her niece regain custody of her children.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520100000 +0000" stop="20260520110000 +0000">
+    <title lang="en">Good Day OK at 5A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755499_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520110000 +0000" stop="20260520120000 +0000">
+    <title lang="en">Live: Good Day OK at 6A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520120000 +0000" stop="20260520130000 +0000">
+    <title lang="en">Live: Good Day OK at 7A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755509_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520130000 +0000" stop="20260520140000 +0000">
+    <title lang="en">Good Day OK at 8A</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30660000_st_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520140000 +0000" stop="20260520150000 +0000">
+    <title lang="en">Live: Living Oklahoma</title>
+    <desc lang="en">Local hosts Matt Stafford and Paul Stanley, show viewers all things Oklahoma.</desc>
+    <date>2015</date>
+    <category lang="en">Travel</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12091808_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520150000 +0000" stop="20260520160000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">David Duchovny swings by for a chat; Leo Woodall talks with the hosts.</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>David Duchovny</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E188</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520160000 +0000" stop="20260520170000 +0000">
+    <title lang="en">Good Day Oklahoma</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8516964_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520170000 +0000" stop="20260520180000 +0000">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">Inspiring stories of miracles and answered prayers from around the world.</desc>
+    <credits>
+      <actor>Gordon Robertson</actor>
+      <actor>Terry Meeuwsen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183995_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E102</episode-num>
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520180000 +0000" stop="20260520190000 +0000">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"My Father Emptied My Bank Account.".</desc>
+    <credits>
+      <actor>Marilyn Milian</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E114</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520190000 +0000" stop="20260520193000 +0000">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Gone With the Rent</sub-title>
+    <desc lang="en">A rental arrangement goes from smooth sailing to soaked ceilings: The landlords say rent stopped, and water damage followed, but the tenant argues that consistent plumbing issues destroyed his property; this case leaves everyone drowning in blame.</desc>
+    <credits>
+      <actor>Yodit Tewolde</actor>
+      <actor>Rachel Juarez</actor>
+      <actor>Daniel Mentzer</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10911935_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E162</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520193000 +0000" stop="20260520200000 +0000">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Burdened by Dad's Brain</sub-title>
+    <desc lang="en">The plaintiff says that, after her father was assaulted, she paid for a brain scan with the agreement he would repay her; he says she insisted on the scan and agreed to pay for it, and he continues to cover some of her bills, so he owes her nothing.</desc>
+    <credits>
+      <actor>Michael Corriero</actor>
+      <actor>Yodit Tewolde</actor>
+      <actor>Rachel Juarez</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28179624_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S11 E131</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520200000 +0000" stop="20260520210000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman says her ex-boyfriend smacked her in the face and destroyed her property in a jealous rage; he says she set two of his suitcases on fire and destroyed his clothes.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E124</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520210000 +0000" stop="20260520213000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Shelter From Slapping?; Hysterical Storage Mess!</sub-title>
+    <desc lang="en">A woman says she took refuge in a shelter after her landlord slapped her in the face; former friends argue over a loan for storage fees.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E211</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520213000 +0000" stop="20260520220000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Friendship in Flames!; Relationship Money Drain</sub-title>
+    <desc lang="en">A vehicle is damaged in an auto-shop fire; a woman is upset to find that her lover drained her bank card while she was in the hospital.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E212</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520220000 +0000" stop="20260520223000 +0000">
+    <title lang="en">Live: FOX25 News at 5pm</title>
+    <desc lang="en">Early evening news.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10983034_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520223000 +0000" stop="20260520230000 +0000">
+    <title lang="en">Live: FOX25 News at 5:30pm</title>
+    <desc lang="en">Midday news update.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10983036_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520230000 +0000" stop="20260520233000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Closure Alternative</sub-title>
+    <desc lang="en">Amy tries to help Sheldon get over his compulsive need for closure when one of his favorite TV shows is canceled; Raj discovers a secret about Lucy.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260520233000 +0000" stop="20260521000000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Gorilla Experiment</sub-title>
+    <desc lang="en">Sheldon tries to help Penny understand Leonard's work; Wolowitz gets jealous when Leonard starts hanging out with his new girlfriend.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521000000 +0000" stop="20260521010000 +0000">
+    <title lang="en">MasterChef</title>
+    <sub-title lang="en">Eggs Benedict</sub-title>
+    <desc lang="en">Each contestant must let their culture shine by creating a unique take on eggs Benedict; a second immunity pin is on the line; one team is saddled with a major disadvantage that could cost them everything.</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+      <actor>Joe Bastianich</actor>
+      <actor>Tiffany Derry</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32461106_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S25 E6</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521010000 +0000" stop="20260521020000 +0000">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">New Faces, New Threats</sub-title>
+    <desc lang="en">With the territory freeze locked in and players established, new contenders come in, changing everything.</desc>
+    <credits>
+      <actor>Rob Lowe</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25652191_b_h8_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521020000 +0000" stop="20260521030000 +0000">
+    <title lang="en">Live: FOX25 News at Nine</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2022</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23003173_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521030000 +0000" stop="20260521033000 +0000">
+    <title lang="en">Live: FOX25 Late Edition</title>
+    <desc lang="en">Evening news coverage.</desc>
+    <date>2006</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p692112_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521033000 +0000" stop="20260521040000 +0000">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Gift of the Wise Man</sub-title>
+    <desc lang="en">Mike asks the family to help get ready for Christmas in order to take the pressure off a stressed-out Vanessa.</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Molly Ephraim</actor>
+      <director>Robbie Countryman</director>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11863023_b_h10_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521040000 +0000" stop="20260521043000 +0000">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Pie</sub-title>
+    <desc lang="en">Jerry becomes obsessed when his date refuses to sample his pie; a clothing store mannequin resembles Elaine .</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+      <director>Tom Cherones</director>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521043000 +0000" stop="20260521050000 +0000">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Robbery</sub-title>
+    <desc lang="en">Jerry's plans to move to a new apartment are complicated by George and Elaine.</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+      <director>Tom Cherones</director>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521050000 +0000" stop="20260521053000 +0000">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Yard Sale, Phone Fail and a College Betrayal</sub-title>
+    <desc lang="en">Louise starts to move into the Conners' home; Dan decides to sell the furniture set he bought for Roseanne when they were first married; Dan finds parting with the furniture harder than he thought it would be.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521053000 +0000" stop="20260521060000 +0000">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Fish in a Drawer</sub-title>
+    <desc lang="en">A CSI team investigates a mysterious death at Charlie's house.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <director>Jeff Melman</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895743_b_h10_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521060000 +0000" stop="20260521070000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">David Duchovny swings by for a chat; Leo Woodall talks with the hosts.</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>David Duchovny</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E188</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521070000 +0000" stop="20260521080000 +0000">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Sexual Harassment Hassle.".</desc>
+    <credits>
+      <actor>Marilyn Milian</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E144</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521080000 +0000" stop="20260521090000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman says she put a GPS tracker on her boyfriend's phone and found him with another woman; now she sues him over property damages and for repayment of a loan.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E144</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521090000 +0000" stop="20260521093000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Landlord Beaten With Lead Pipe!</sub-title>
+    <desc lang="en">After eight weeks of recovery from a brutal attack, a landlord goes after ex-tenants for medical bills.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E106</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521093000 +0000" stop="20260521100000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Controversial Judge Judy Decision!; Housekeeper Steals Customers?!</sub-title>
+    <desc lang="en">A real estate broker plays a voice message that clearly states that her web designer agrees to return her deposit; a cleaning-service owner accuses her former employee of soliciting clients away from her cleaning company.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E12</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521100000 +0000" stop="20260521110000 +0000">
+    <title lang="en">Good Day OK at 5A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755499_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521110000 +0000" stop="20260521120000 +0000">
+    <title lang="en">Live: Good Day OK at 6A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521120000 +0000" stop="20260521130000 +0000">
+    <title lang="en">Live: Good Day OK at 7A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755509_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521130000 +0000" stop="20260521140000 +0000">
+    <title lang="en">Good Day OK at 8A</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30660000_st_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521140000 +0000" stop="20260521150000 +0000">
+    <title lang="en">Live: Living Oklahoma</title>
+    <desc lang="en">Local hosts Matt Stafford and Paul Stanley, show viewers all things Oklahoma.</desc>
+    <date>2015</date>
+    <category lang="en">Travel</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12091808_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521150000 +0000" stop="20260521160000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">Shopping Day at Live</sub-title>
+    <desc lang="en">Laurie Metcalf is here; it's "Shopping Day at Live" with Monica Mangin!</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Laurie Metcalf</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E189</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521160000 +0000" stop="20260521170000 +0000">
+    <title lang="en">Good Day Oklahoma</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8516964_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521170000 +0000" stop="20260521180000 +0000">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">Amazing stories of people who have experienced God's blessings.</desc>
+    <credits>
+      <actor>Gordon Robertson</actor>
+      <actor>Terry Meeuwsen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183995_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E103</episode-num>
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521180000 +0000" stop="20260521190000 +0000">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Music Producer Mayhem.".</desc>
+    <credits>
+      <actor>Marilyn Milian</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E115</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521190000 +0000" stop="20260521193000 +0000">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Mail Order Lied</sub-title>
+    <desc lang="en">A father claims his ex ruined a family trip by making him miss his flight with their daughters; she argues he overreacted and was more interested in meeting a future bride than making memories.</desc>
+    <credits>
+      <actor>Yodit Tewolde</actor>
+      <actor>Rachel Juarez</actor>
+      <actor>Daniel Mentzer</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10911935_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S12 E28</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521193000 +0000" stop="20260521200000 +0000">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Track Suit</sub-title>
+    <desc lang="en">The plaintiff says she paid the defendant to train her son in track, but he didn't deliver; the defendant says the plaintiff wanted a relationship and is upset over his refusal.</desc>
+    <credits>
+      <actor>Michael Corriero</actor>
+      <actor>Yodit Tewolde</actor>
+      <actor>Rachel Juarez</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28179624_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S11 E127</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521200000 +0000" stop="20260521210000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman sues her ex-boyfriend for repayment of loans and property damages; she says that after they moved in together, he became emotionally and physically abusive.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E125</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521210000 +0000" stop="20260521213000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Abandoned or Beloved Property?; Title Thief?</sub-title>
+    <desc lang="en">A landlord says a large family left behind a bullet-ridden TV and a big mess when they moved out; former stepbrothers fight over the unpaid balance on a truck.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E213</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521213000 +0000" stop="20260521220000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Beaten With a Child's Toy?; It's Raining Cockroaches!</sub-title>
+    <desc lang="en">A man accuses his neighbor of beating him with a toy because she thought he intimidated her toddler; women have video to prove that the room they were about to rent was covered in cockroaches.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E114</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521220000 +0000" stop="20260521223000 +0000">
+    <title lang="en">Live: FOX25 News at 5pm</title>
+    <desc lang="en">Early evening news.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10983034_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521223000 +0000" stop="20260521230000 +0000">
+    <title lang="en">Live: FOX25 News at 5:30pm</title>
+    <desc lang="en">Midday news update.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10983036_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521230000 +0000" stop="20260521233000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Proton Resurgence</sub-title>
+    <desc lang="en">Leonard and Sheldon hire the host (Bob Newhart) of their favorite childhood TV show to perform; Bernadette and Howard run into trouble while dog-sitting for Raj's pet.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E22</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260521233000 +0000" stop="20260522000000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Maternal Congruence</sub-title>
+    <desc lang="en">Leonard is horrified when his mother (Christine Baranski) visits.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522000000 +0000" stop="20260522010200 +0000">
+    <title lang="en">Next Level Chef</title>
+    <sub-title lang="en">The Final Level</sub-title>
+    <desc lang="en">The three remaining chefs must create a dish on each level in just 90 minutes; one chef is crowned the winner.</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+      <actor>Nyesha Arrington</actor>
+      <actor>Richard Blais</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31694899_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522010200 +0000" stop="20260522020000 +0000">
+    <title lang="en">Fear Factor: House of Fear</title>
+    <sub-title lang="en">48 Hours of Fear -- Part Two</sub-title>
+    <desc lang="en">Five sleep-deprived contestants push through another 24 hours of tarantulas, needles, electrocution and a disgusting sushi showdown that pushes one contestant over the edge; a harrowing game of ATV chicken to decides who wins the $50,000 grand prize.</desc>
+    <credits>
+      <actor>Johnny Knoxville</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30552914_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522020000 +0000" stop="20260522030000 +0000">
+    <title lang="en">Live: FOX25 News at Nine</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2022</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23003173_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522030000 +0000" stop="20260522033000 +0000">
+    <title lang="en">Live: FOX25 Late Edition</title>
+    <desc lang="en">Evening news coverage.</desc>
+    <date>2006</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p692112_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522033000 +0000" stop="20260522040000 +0000">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Mike and the Mechanics</sub-title>
+    <desc lang="en">Mike tries to cheer Eve up by showing her different career options; a car mechanic (Jay Leno) yields a surprising amount of influence; Kristin feels like she no longer has anything in common with Mandy.</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Molly Ephraim</actor>
+      <director>Robbie Countryman</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11863023_b_h10_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522040000 +0000" stop="20260522043000 +0000">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Stand-In</sub-title>
+    <desc lang="en">Kramer befriends a little person when he is hired as a stand-in for a soap opera; George wants to break up with a girlfriend.</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+      <director>Tom Cherones</director>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522043000 +0000" stop="20260522050000 +0000">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Stock Tip</sub-title>
+    <desc lang="en">George and Jerry invest in falling stock after a bad tip from a stock-market shyster.</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+      <director>Tom Cherones</director>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7892823_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522050000 +0000" stop="20260522053000 +0000">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Spills, Pills and the Midnight Lasagna</sub-title>
+    <desc lang="en">The Conners celebrate Mark when he makes it on the dean's list at his new magnet school; Jackie continues to navigate her relationship with Neville.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522053000 +0000" stop="20260522060000 +0000">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">If My Hole Could Talk</sub-title>
+    <desc lang="en">Charlie discovers he is attracted to an older woman who writes self-help books; Jake and Alan fight over a school assignment.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <director>Jon Cryer</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895743_b_h10_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522060000 +0000" stop="20260522070000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">Shopping Day at Live</sub-title>
+    <desc lang="en">Laurie Metcalf is here; it's "Shopping Day at Live" with Monica Mangin!</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Laurie Metcalf</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E189</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522070000 +0000" stop="20260522080000 +0000">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Cousin Crisis.".</desc>
+    <credits>
+      <actor>Marilyn Milian</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E145</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522080000 +0000" stop="20260522090000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman says her boyfriend's wife falsely accused her of assaulting her child.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E145</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522090000 +0000" stop="20260522093000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Weed-Eating Foreclosure Theft?; Don't Do Your Niece Any Favors!</sub-title>
+    <desc lang="en">A construction worker is accused of stealing property from his boss after claiming he was not paid; a woman whose aunt helped her buy a car says it was repossessed on a whim, not because she missed any payments.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E72</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522093000 +0000" stop="20260522100000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Resisting Arrest While Dating a Teenager?!; Baby Mama Drama!; Buddy Pass Fail!</sub-title>
+    <desc lang="en">A man starting a family with a teenager offers up his criminal history unprompted; unwed parents take turns serving time in prison while fighting over assault, a false restraining order and stolen money; a man discovers his transaction was illegal.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E71</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522100000 +0000" stop="20260522110000 +0000">
+    <title lang="en">Good Day OK at 5A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755499_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522110000 +0000" stop="20260522120000 +0000">
+    <title lang="en">Live: Good Day OK at 6A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522120000 +0000" stop="20260522130000 +0000">
+    <title lang="en">Live: Good Day OK at 7A</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13755509_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522130000 +0000" stop="20260522140000 +0000">
+    <title lang="en">Good Day OK at 8A</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30660000_st_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522140000 +0000" stop="20260522150000 +0000">
+    <title lang="en">Live: Living Oklahoma</title>
+    <desc lang="en">Local hosts Matt Stafford and Paul Stanley, show viewers all things Oklahoma.</desc>
+    <date>2015</date>
+    <category lang="en">Travel</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12091808_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522150000 +0000" stop="20260522160000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Craig Ferguson stops by; Ariel Winter talks with the hosts about Disney's "Sofia the First: Royal Magic"; it's time for summer cooking!</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Craig Ferguson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E190</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522160000 +0000" stop="20260522170000 +0000">
+    <title lang="en">Good Day Oklahoma</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8516964_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522170000 +0000" stop="20260522180000 +0000">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">Meet ordinary people who have experienced the extraordinary power of prayer.</desc>
+    <credits>
+      <actor>Gordon Robertson</actor>
+      <actor>Terry Meeuwsen</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183995_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E104</episode-num>
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522180000 +0000" stop="20260522183000 +0000">
+    <title lang="en">Live: IndyCar Racing</title>
+    <desc lang="en">From Indianapolis Motor Speedway in Indianapolis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/p737330_b_h8_ai.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522183000 +0000" stop="20260522200000 +0000">
+    <title lang="en">Live: Indy 500 Pit Stop Challenge</title>
+    <desc lang="en">Featuring head-to-head competition between pit crews, in which crews will simulate fuel hookup and change all four Firestone Firehawk tires to see who has the fastest time.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Auto racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32688120_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522200000 +0000" stop="20260522210000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman sues her sister for repayment of two loans and accuses her of joining a gang when she was 13 years old.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E126</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522210000 +0000" stop="20260522213000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Stalking Ex-Lover?; Car Meets Brick Wall!</sub-title>
+    <desc lang="en">A woman obtains an order of protection against her ex, saying he tore down her fence; a woman sues her former friend for driving her car without her permission and totaling it, but he says the car was faulty and spun out of control.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E214</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522213000 +0000" stop="20260522220000 +0000">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Family Drama Lockout!; Divorcee Tax Fraud?</sub-title>
+    <desc lang="en">A woman sues her brother for locking her out of her home; a woman accuses her ex-husband of fraudulently taking money from a shared Roth IRA.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E101</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522220000 +0000" stop="20260522223000 +0000">
+    <title lang="en">Live: FOX25 News at 5pm</title>
+    <desc lang="en">Early evening news.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10983034_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522223000 +0000" stop="20260522230000 +0000">
+    <title lang="en">Live: FOX25 News at 5:30pm</title>
+    <desc lang="en">Midday news update.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10983036_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522230000 +0000" stop="20260522233000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Love Spell Potential</sub-title>
+    <desc lang="en">Amy and Sheldon's relationship takes a surprising turn during a game of "Dungeons &amp; Dragons"; Lucy and Koothrappali have an awkward date.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Anthony Rich</director>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E23</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260522233000 +0000" stop="20260523000000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Psychic Vortex</sub-title>
+    <desc lang="en">Sheldon and Koothrappali attend a university mixer; Leonard discovers that Penny believes in psychics.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523000000 +0000" stop="20260523030000 +0000">
+    <title lang="en">Live: United Football League</title>
+    <desc lang="en">The Orlando Storm host the DC Defenders for a United Football League game at Inter&amp;Co Stadium. The 6-2 Storm face the 5-3 Defenders as Orlando running back Jashaun Corbin brings three rushing touchdowns against DC back Deon Jackson and his six.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0033S6F6.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523030000 +0000" stop="20260523033000 +0000">
+    <title lang="en">Live: FOX25 Late Edition</title>
+    <desc lang="en">Evening news coverage.</desc>
+    <date>2006</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p692112_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523033000 +0000" stop="20260523040000 +0000">
+    <title lang="en">The End Zone</title>
+    <desc lang="en">A preview of the weekend's college and pro football games.</desc>
+    <date>2024</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28206377_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523040000 +0000" stop="20260523043000 +0000">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Fire</sub-title>
+    <desc lang="en">George is forced to confront his cowardliness after he runs from a kitchen fire; Kramer dates one of Elaine's co-workers.</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+      <director>Tom Cherones</director>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523043000 +0000" stop="20260523050000 +0000">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Bubble Boy</sub-title>
+    <desc lang="en">Jerry gets lost en route to visiting a sick fan who must live in a protective plastic bubble.</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+      <director>Tom Cherones</director>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523050000 +0000" stop="20260523053000 +0000">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Hot for Teacher and Writing a Wrong</sub-title>
+    <desc lang="en">Mark returns to public school and finds it hard to fit in; Darlene isn't happy when she finds out what Mark's doing to make a little extra cash for college; Becky finds herself in an interesting situation with one of her college professors.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523053000 +0000" stop="20260523060000 +0000">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Waiting for the Right Snapper</sub-title>
+    <desc lang="en">Charlie tries to resist temptation when he meets the daughter of the woman he's dating and realizes they've met before.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <director>Jeff Melman</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895743_b_h10_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523060000 +0000" stop="20260523070000 +0000">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Craig Ferguson stops by; Ariel Winter talks with the hosts about Disney's "Sofia the First: Royal Magic"; it's time for summer cooking!</desc>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Craig Ferguson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E190</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523070000 +0000" stop="20260523080000 +0000">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Personal Trainer Drama.".</desc>
+    <credits>
+      <actor>Marilyn Milian</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E116</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523080000 +0000" stop="20260523090000 +0000">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">A woman sues her sister for repayment of two loans and accuses her of joining a gang when she was 13 years old.</desc>
+    <credits>
+      <actor>Greg Mathis</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185493_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S19 E126</episode-num>
+    <previously-shown />  <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523090000 +0000" stop="20260523093000 +0000">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Eve's Band</sub-title>
+    <desc lang="en">Mike tries to break up Eve's new band, but his plan doesn't turn out as he expected; Mandy and Kyle baby-sit Boyd.</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Molly Ephraim</actor>
+      <director>Jonathan Taylor Thomas</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11863023_b_h10_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523093000 +0000" stop="20260523100000 +0000">
+    <title lang="en">Greatest Sports Legends: Then and Now</title>
+    <desc lang="en">Hosts Gregg Murphy and Wes Hall compare sports legends of the past to those of today.</desc>
+    <credits>
+      <actor>Gregg Murphy</actor>
+      <actor>Wes Hall</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20216116_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E39</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523100000 +0000" stop="20260523103000 +0000">
+    <title lang="en">Whacked Out Sports</title>
+    <desc lang="en">A bizarre ball bouncer; the rope swing takedown; bad boys who bungee; the girls of skate that radiate.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p528839_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523103000 +0000" stop="20260523110000 +0000">
+    <title lang="en">The Armstrong Williams Show</title>
+    <desc lang="en">A political commentator and nationally syndicated columnist continues in the tradition of the 1994 Republican Revolution.</desc>
+    <credits>
+      <actor>Armstrong Williams</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p302607_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523110000 +0000" stop="20260523113000 +0000">
+    <title lang="en">Science Now</title>
+    <desc lang="en">Undersea discoveries; cleaning water; sodium batteries.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Technology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20235913_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E14</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523113000 +0000" stop="20260523120000 +0000">
+    <title lang="en">Ambulance bills could lead to bankruptcy. Protect yourself now!</title>
+    <desc lang="en">Ground and air ambulance bills are higher than ever! Medicare &amp; private insurance may not always cover costs. Imagine getting a bill for thousands of dollars! Protect yourself and let MASA pay ambulance bills your insurance may not.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23164620_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523120000 +0000" stop="20260523123000 +0000">
+    <title lang="en">Super Animals</title>
+    <desc lang="en">Some of the most talkative creatures on Earth; gorillas; parrots; honeybees; the humpback whale; fireflies.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25199238_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523123000 +0000" stop="20260523130000 +0000">
+    <title lang="en">Xploration Nature Knows Best</title>
+    <sub-title lang="en">Nature and Physical Activity</sub-title>
+    <desc lang="en">Mother Nature revamps some of our favorite sports; roller skates' reinvented wheels are inspired by how snakes and fish move; a workout mimics the physiology of little kids; a basic component in plants helps divers see more clearly underwater.</desc>
+    <credits>
+      <actor>Danni Washington</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14423828_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523130000 +0000" stop="20260523133000 +0000">
+    <title lang="en">Xploration Outer Space</title>
+    <sub-title lang="en">Landing on Mars</sub-title>
+    <desc lang="en">NASA has been remarkably successful sending robots to Mars' surface; host Emily Calandrelli looks at the varied and ingenious methods used to land spacecraft on the red planet, starting with Pathfinder in 1997.</desc>
+    <credits>
+      <actor>Emily Calandrelli</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10857096_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523133000 +0000" stop="20260523140000 +0000">
+    <title lang="en">Xploration Awesome Planet</title>
+    <sub-title lang="en">Farmers</sub-title>
+    <desc lang="en">An oyster farmer pulls in a harvest; an aquaponics farmer grows sustainable foods; training future farmers.</desc>
+    <credits>
+      <actor>Philippe Cousteau</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10857086_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523140000 +0000" stop="20260523143000 +0000">
+    <title lang="en">Protect Your Family From Identity Theft</title>
+    <desc lang="en">Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523143000 +0000" stop="20260523150000 +0000">
+    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523150000 +0000" stop="20260523153000 +0000">
+    <title lang="en">RateEscape: Stop Overpaying For Cellular</title>
+    <desc lang="en">Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523153000 +0000" stop="20260523160000 +0000">
+    <title lang="en">Protect Your Family From Identity Theft</title>
+    <desc lang="en">Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523160000 +0000" stop="20260523163000 +0000">
+    <title lang="en">Ambulance bills could lead to bankruptcy. Protect yourself now!</title>
+    <desc lang="en">Ground and air ambulance bills are higher than ever! Medicare &amp; private insurance may not always cover costs. Imagine getting a bill for thousands of dollars! Protect yourself and let MASA pay ambulance bills your insurance may not.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23164620_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523163000 +0000" stop="20260523183000 +0000">
+    <title lang="en">Summer of '94</title>
+    <desc lang="en">Chronicling the rise of the U.S. Men's National Soccer Team's ahead of the 1994 FIFA World Cup.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32688323_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523183000 +0000" stop="20260523210000 +0000">
+    <title lang="en">Live: MLS Soccer</title>
+    <desc lang="en">St. Louis CITY SC faces Austin FC at Energizer Park in an MLS matchup. Austin beat St. Louis 2-0 on May 4, 2026, behind goals from Christian Ramirez and Myrto Uzuni. St. Louis wants to rebound at home, while Austin aims to bounce back from a loss.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00345FL6.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523210000 +0000" stop="20260523230000 +0000">
+    <title lang="en">The American Rodeo</title>
+    <desc lang="en">From Arlington, Texas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26632176_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260523230000 +0000" stop="20260524020000 +0000">
+    <title lang="en">Live: MLB Baseball</title>
+    <desc lang="en">From American Family Field in Milwaukee.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0033XJX9.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260524020000 +0000" stop="20260524030000 +0000">
+    <title lang="en">FOX25 News at Nine</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2022</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23003173_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260524030000 +0000" stop="20260524040000 +0000">
+    <title lang="en">Fear Factor: House of Fear</title>
+    <sub-title lang="en">Stuck</sub-title>
+    <desc lang="en">Players are buried alive in a claustrophobic challenge; a favorite fights for her show life against a hissing boa constrictor.</desc>
+    <credits>
+      <actor>Johnny Knoxville</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30552914_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260524040000 +0000" stop="20260524043000 +0000">
+    <title lang="en">Natural Blood Pressure Management</title>
+    <desc lang="en">Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="KOKH-DT.us_locals1" start="20260524043000 +0000" stop="20260524053000 +0000">
+    <title lang="en">The National News Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <credits>
+      <actor>Eugene Ramirez</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27888009_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
   <channel id="Arena.Premium.1.HD.(RS).rs">
     <display-name lang="sl">Arena Premium 1 HD (RS)</display-name>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/32/26/xl_light_480x270.png" />
