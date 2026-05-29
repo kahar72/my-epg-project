@@ -188,13 +188,12 @@
 		"TNT.Sports.2.HD.uk": "TNT.Sports.2.HD.uk",
 		"TNT.Sports.3.HD.uk": "TNT.Sports.3.HD.uk",
 		"TNT.Sports.4.HD.uk": "TNT.Sports.4.HD.uk",
+		"TNT.Sports.Ultimate.HD.uk": "TNT.Sports.Ultimate.HD.uk",
 		"SkySp.Fball.HD.uk": "SkySp.Fball.HD.uk",
 		"SkySp+HD.uk": "SkySp+HD.uk",
 		"SkySp.F1.HD.uk": "SkySp.F1.HD.uk",
 		"SkySp.ActionHD.uk": "SkySp.ActionHD.uk",
 		"SkySp.Mix.HD.uk": "SkySp.Mix.HD.uk",
-		"Premier.Sports.1.HD.uk": "Premier.Sports.1.HD.uk",
-		"Premier.Sports.2.HD.uk": "Premier.Sports.2.HD.uk",
 		"ITV1.HD.uk": "ITV1.HD.uk",
 		"BBC.One.Lon.HD.uk": "BBC.One.Lon.HD.uk",
 		"BBC.Two.HD.uk": "BBC.Two.HD.uk",
@@ -230,29 +229,7 @@
 		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
 		"Das.Erste.de": "Das.Erste.de",
-		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de",
-		"Sky.Sport.Bundesliga.1.de": "Sky.Sport.Bundesliga.1.de",
-		"Sky.Sport.Bundesliga.2.de": "Sky.Sport.Bundesliga.2.de",
-		"Sky.Sport.Bundesliga.3.de": "Sky.Sport.Bundesliga.3.de",
-		"Sky.Sport.Bundesliga.4.de": "Sky.Sport.Bundesliga.4.de",
-		"Sport.1.-.myTeamTV.de": "Sport.1.-.myTeamTV.de",
-		"Sport.2.-.myTeamTV.de": "Sport.2.-.myTeamTV.de",
-		"Sport.3.-.myTeamTV.de": "Sport.3.-.myTeamTV.de",
-		"Sport.4.-.myTeamTV.de": "Sport.4.-.myTeamTV.de",
-		"Sport.5.-.myTeamTV.de": "Sport.5.-.myTeamTV.de",
-		"Sport.6.-.myTeamTV.de": "Sport.6.-.myTeamTV.de",
-		"Sport.7.-.myTeamTV.de": "Sport.7.-.myTeamTV.de",
-		"Sport.8.-.myTeamTV.de": "Sport.8.-.myTeamTV.de",
-		"Sport.9.-.myTeamTV.de": "Sport.9.-.myTeamTV.de",
-		"Sport.10.-.myTeamTV.de": "Sport.10.-.myTeamTV.de",
-		"Sport.11.-.myTeamTV.de": "Sport.11.-.myTeamTV.de",
-		"Sport.12.-.myTeamTV.de": "Sport.12.-.myTeamTV.de",
-		"Sport.13.-.myTeamTV.de": "Sport.13.-.myTeamTV.de",
-		"Sport.14.-.myTeamTV.de": "Sport.14.-.myTeamTV.de",
-		"Sport.15.-.myTeamTV.de": "Sport.15.-.myTeamTV.de",
-		"Sport.16.-.myTeamTV.de": "Sport.16.-.myTeamTV.de",
-		"Sport.17.-.myTeamTV.de": "Sport.17.-.myTeamTV.de",
-		"Sport.18.-.myTeamTV.de": "Sport.18.-.myTeamTV.de"
+		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de"
       }
     },
     {
@@ -273,22 +250,9 @@
 		"TSN.1.ca2": "TSN.1.ca2",
 		"TSN.2.ca2": "TSN.2.ca2",
 		"TSN.3.ca2": "TSN.3.ca2",
+		"TSN.4.ca2": "TSN.4.ca2",
+		"TSN.5.ca2": "TSN.5.ca2",
 		"CTV.Toronto.HD.ca2": "CTV.Toronto.HD.ca2"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz",
-      "rename_channels": {
-        "DAZN.1.pt": "DAZN.1.pt",
-		"DAZN.2.pt": "DAZN.2.pt",
-		"DAZN.3.pt": "DAZN.3.pt",
-		"DAZN.4.pt": "DAZN.4.pt",
-		"DAZN.5.pt": "DAZN.5.pt",
-		"SPORT.TV1.HD.pt": "SPORT.TV1.HD.pt",
-		"SPORT.TV2.HD.pt": "SPORT.TV2.HD.pt",
-		"SPORT.TV3.HD.pt": "SPORT.TV3.HD.pt",
-		"SPORT.TV4.HD.pt": "SPORT.TV4.HD.pt",
-		"SPORT.TV5.HD.pt": "SPORT.TV5.HD.pt"
       }
     },
     {
@@ -317,7 +281,6 @@
 		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2",
 		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2",
 		"Fox.Deportes.HD.us2": "Fox.Deportes.HD.us2",
-		"beIN.Sports.En.EspaÃ±ol.HD.us2": "beIN.Sports.En.EspaÃ±ol.HD.us2",
 		"beIN.Sports.USA.HD.us2": "beIN.Sports.USA.HD.us2"
       }
 	},
@@ -326,8 +289,6 @@
       "rename_channels": {
         "WNBC-DT.us_locals1": "WNBC-DT.us_locals1",
 		"WNEU-DT.us_locals1": "WNEU-DT.us_locals1",
-		"WNYW-DT.us_locals1": "WNYW-DT.us_locals1",
-		"WRGT-DT.us_locals1": "WRGT-DT.us_locals1",
 		"KOKH-DT.us_locals1": "KOKH-DT.us_locals1"
       }
     },
@@ -355,55 +316,7 @@
 		"beIN.SPORTS.2.fr": "beIN.SPORTS.2.fr",
 		"beIN.SPORTS.3.fr": "beIN.SPORTS.3.fr",
 		"TF1.fr": "TF1.fr",
-		"TFX.fr": "TFX.fr",
-		"M6.fr": "M6.fr",
-		"W9.fr": "W9.fr"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz",
-      "rename_channels": {
-        "Ziggo.Sport.nl": "Ziggo.Sport.nl",
-		"Ziggo.Sport.2.nl": "Ziggo.Sport.2.nl",
-		"Ziggo.Sport.3.nl": "Ziggo.Sport.3.nl",
-		"Ziggo.Sport.4.nl": "Ziggo.Sport.4.nl",
-		"Ziggo.Sport.5.nl": "Ziggo.Sport.5.nl",
-		"Ziggo.Sport.6.nl": "Ziggo.Sport.6.nl",
-		"NPO.1.nl": "NPO.1.nl",
-		"NPO.2.nl": "NPO.2.nl",
-		"NPO.3.nl": "NPO.3.nl",
-		"ESPN.1.nl": "ESPN.1.nl",
-		"ESPN.2.nl": "ESPN.2.nl",
-		"ESPN.3.nl": "ESPN.3.nl",
-		"ESPN.4.nl": "ESPN.4.nl"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
-      "rename_channels": {
-		"Sky.Sports.16.mx": "Sky.Sports.16.mx"
-      }
-	},
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz",
-      "rename_channels": {
-		"ESPN.co": "ESPN.co",
-		"ESPN.2.co": "ESPN.2.co",
-		"ESPN.3.co": "ESPN.3.co",
-		"ESPN.4.co": "ESPN.4.co",
-		"ESPN.5.co": "ESPN.5.co",
-		"ESPN.6.HD.co": "ESPN.6.HD.co",
-		"ESPN.7.HD.co": "ESPN.7.HD.co"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz",
-      "rename_channels": {
-        "VTV1.HD.vn": "VTV1.HD.vn",
-		"VTV2.HD.vn": "VTV2.HD.vn",
-		"VTV3.HD.vn": "VTV3.HD.vn",
-		"VTV5.HD.vn": "VTV5.HD.vn",
-		"VTV10.(HD).vn": "VTV10.(HD).vn"
+		"M6.fr": "M6.fr"
       }
     },
     {
@@ -420,25 +333,7 @@
 		"Eleven.Sports.3.HD.pl": "Eleven.Sports.3.HD.pl",
 		"Eleven.Sports.4.HD.pl": "Eleven.Sports.4.HD.pl",
 		"Polsat.Sport.Premium.1.pl": "Polsat.Sport.Premium.1.pl",
-		"Polsat.Sport.Premium.2.pl": "Polsat.Sport.Premium.2.pl",
-		"Polsat.Sport.Premium.3.pl": "Polsat.Sport.Premium.3.pl",
-		"Polsat.Sport.Premium.4.pl": "Polsat.Sport.Premium.4.pl",
-		"Polsat.Sport.Premium.5.pl": "Polsat.Sport.Premium.5.pl",
-		"Polsat.Sport.Premium.6.pl": "Polsat.Sport.Premium.6.pl"
-      }
-    },
-    {
-      "url": "https://www.open-epg.com/files/poland1.xml.gz",
-      "rename_channels": {
-        "Polsat Sport 1 HD.pl": "Polsat Sport 1 HD.pl",
-		"Polsat Sport 2 HD.pl": "Polsat Sport 2 HD.pl",
-		"Polsat Sport 3 HD.pl": "Polsat Sport 3 HD.pl"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-      "rename_channels": {
-        "DAZN.LALIGA.es": "DAZN.LALIGA.es"
+		"Polsat.Sport.Premium.2.pl": "Polsat.Sport.Premium.2.pl"
       }
     },
     {
@@ -455,12 +350,6 @@
 		"logos-_beINSPORTS9_EN.bein": "logos-_beINSPORTS9_EN.bein",
 		"beIN_SPORTS_XTRA1_Digital_Mono_EN.bein": "beIN_SPORTS_XTRA1_Digital_Mono_EN.bein",
 		"beIN_SPORTS_XTRA2_Digital_Mono_EN.bein": "beIN_SPORTS_XTRA2_Digital_Mono_EN.bein"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
-      "rename_channels": {
-        "RTE.Two.HD.ie": "RTE.Two.HD.ie"
       }
     }
   ]
