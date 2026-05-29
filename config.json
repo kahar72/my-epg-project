@@ -125,7 +125,7 @@
 		"AstroArena": "AstroArena",
 		"AstroArena2": "AstroArena2",
 		"ROCKXStream": "ROCKXStream",
-		"AstroArenaBola2": "AstroArenaBola2",
+		"AstroShowtime": "AstroShowtime",
 		"AstroSportsPlus": "AstroSportsPlus",
 		"PremierSports": "PremierSports",
 		"DiscoveryAsia": "DiscoveryAsia",
@@ -168,12 +168,10 @@
       "url": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
       "rename_channels": {
         "plex.tv.ONE.Championship.TV.plex": "plex.tv.ONE.Championship.TV.plex",
-		"plex.tv.beIN.SPORTS.XTRA.plex": "plex.tv.beIN.SPORTS.XTRA.plex",
 		"plex.tv.CBS.Sports.Golazo.Network.plex": "plex.tv.CBS.Sports.Golazo.Network.plex",
 		"plex.tv.Just.For.Laughs.Gags.plex": "plex.tv.Just.For.Laughs.Gags.plex",
 		"plex.tv.Modern.Marvels.by.History.plex": "plex.tv.Modern.Marvels.by.History.plex",
-		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex",
-		"plex.tv.F1.Channel.plex": "plex.tv.F1.Channel.plex"
+		"plex.tv.MythBusters.plex": "plex.tv.MythBusters.plex"
       }
     },
     {
@@ -198,7 +196,6 @@
 		"Premier.Sports.1.HD.uk": "Premier.Sports.1.HD.uk",
 		"Premier.Sports.2.HD.uk": "Premier.Sports.2.HD.uk",
 		"ITV1.HD.uk": "ITV1.HD.uk",
-		"ITV4.HD.uk": "ITV4.HD.uk",
 		"BBC.One.Lon.HD.uk": "BBC.One.Lon.HD.uk",
 		"BBC.Two.HD.uk": "BBC.Two.HD.uk",
 		"BBC.Three.HD.uk": "BBC.Three.HD.uk",
@@ -217,9 +214,7 @@
 		"Sky.Sport.7.nz": "Sky.Sport.7.nz",
 		"Sky.Sport.Premier.League.nz": "Sky.Sport.Premier.League.nz",
 		"Sky.Sport.9.nz": "Sky.Sport.9.nz",
-		"Sky.Sport.Select.nz": "Sky.Sport.Select.nz",
-		"ESPN..nz": "ESPN..nz",
-		"ESPN2.nz": "ESPN2.nz"
+		"Sky.Sport.Select.nz": "Sky.Sport.Select.nz"
       }
     },
     {
@@ -227,7 +222,6 @@
       "rename_channels": {
         "Sky.Sport.Premier.League.de": "Sky.Sport.Premier.League.de",
 		"Sky.Sport.Top.Event.de": "Sky.Sport.Top.Event.de",
-		"Sky.Sport.Austria.1.HD.de": "Sky.Sport.Austria.1.HD.de",
 		"DAZN.1.de": "DAZN.1.de",
 		"DAZN.2.de": "DAZN.2.de",
 		"ZDF.de": "ZDF.de",
