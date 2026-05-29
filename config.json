@@ -224,9 +224,6 @@
 		"DAZN.1.de": "DAZN.1.de",
 		"DAZN.2.de": "DAZN.2.de",
 		"ZDF.de": "ZDF.de",
-		"ORF.1.de": "ORF.1.de",
-		"ORF.2.de": "ORF.2.de",
-		"ORF.SPORT.+.de": "ORF.SPORT.+.de",
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
 		"Das.Erste.de": "Das.Erste.de",
 		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de"
@@ -280,7 +277,6 @@
 		"USA.Network.HD.us2": "USA.Network.HD.us2",
 		"Fox.Soccer.Plus.HD.us2": "Fox.Soccer.Plus.HD.us2",
 		"UNIVERSO.HD.us2": "UNIVERSO.HD.us2",
-		"Fox.Deportes.HD.us2": "Fox.Deportes.HD.us2",
 		"beIN.Sports.USA.HD.us2": "beIN.Sports.USA.HD.us2"
       }
 	},
@@ -297,16 +293,19 @@
       "rename_channels": {
         "Arena.Premium.1.HD.(RS).rs": "Arena.Premium.1.HD.(RS).rs",
 		"Arena.Premium.2.HD.(RS).rs": "Arena.Premium.2.HD.(RS).rs",
-		"Arena.Premium.3.HD.(RS).rs": "Arena.Premium.3.HD.(RS).rs"
+		"Arena.Premium.3.HD.(RS).rs": "Arena.Premium.3.HD.(RS).rs",
+		"Arena.Sport.1.HD.(RS).rs": "Arena.Sport.1.HD.(RS).rs",
+		"Arena.Sport.2.HD.(RS).rs": "Arena.Sport.2.HD.(RS).rs",
+		"Arena.Sport.3.HD.(RS).rs": "Arena.Sport.3.HD.(RS).rs",
+		"Arena.Sport.4.HD.(RS).rs": "Arena.Sport.4.HD.(RS).rs",
+		"Arena.Sport.5.HD.(RS).rs": "Arena.Sport.5.HD.(RS).rs",
+		"Arena.Sport.6.HD.(RS).rs": "Arena.Sport.6.HD.(RS).rs"
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
       "rename_channels": {
-        "Arena.Sport.1.HD.hr": "Arena.Sport.1.HD.hr",
-		"Arena.Sport.2.HD.hr": "Arena.Sport.2.HD.hr",
-		"Arena.Sport.3.HD.hr": "Arena.Sport.3.HD.hr",
-		"Arena.Sport.4.HD.hr": "Arena.Sport.4.HD.hr"
+        "Russia.Today.in": "Russia.Today.in"
       }
     },
     {
@@ -334,22 +333,6 @@
 		"Eleven.Sports.4.HD.pl": "Eleven.Sports.4.HD.pl",
 		"Polsat.Sport.Premium.1.pl": "Polsat.Sport.Premium.1.pl",
 		"Polsat.Sport.Premium.2.pl": "Polsat.Sport.Premium.2.pl"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz",
-      "rename_channels": {
-        "beIN_SPORTS1_DIGITAL_Mono_EN.bein": "beIN_SPORTS1_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS2_DIGITAL_Mono_EN.bein": "beIN_SPORTS2_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS3_DIGITAL_Mono_EN.bein": "beIN_SPORTS3_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS4_DIGITAL_Mono_EN.bein": "beIN_SPORTS4_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS5_DIGITAL_Mono_EN.bein": "beIN_SPORTS5_DIGITAL_Mono_EN.bein",
-		"beIN_SPORTS66_DIGITAL_Mono-01_EN.bein": "beIN_SPORTS66_DIGITAL_Mono-01_EN.bein",
-		"beIN_SPORTS7_DIGITAL_Mono_EN.bein": "beIN_SPORTS7_DIGITAL_Mono_EN.bein",
-		"logos-_beINSPORTS8_EN.bein": "logos-_beINSPORTS8_EN.bein",
-		"logos-_beINSPORTS9_EN.bein": "logos-_beINSPORTS9_EN.bein",
-		"beIN_SPORTS_XTRA1_Digital_Mono_EN.bein": "beIN_SPORTS_XTRA1_Digital_Mono_EN.bein",
-		"beIN_SPORTS_XTRA2_Digital_Mono_EN.bein": "beIN_SPORTS_XTRA2_Digital_Mono_EN.bein"
       }
     }
   ]
