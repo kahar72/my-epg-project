@@ -285,7 +285,8 @@
       "rename_channels": {
         "WNBC-DT.us_locals1": "WNBC-DT.us_locals1",
 		"WNEU-DT.us_locals1": "WNEU-DT.us_locals1",
-		"KOKH-DT.us_locals1": "KOKH-DT.us_locals1"
+		"KOKH-DT.us_locals1": "KOKH-DT.us_locals1",
+		"KVEA-DT.us_locals1": "KVEA-DT.us_locals1"
       }
     },
     {
