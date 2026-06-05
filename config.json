@@ -133,6 +133,19 @@
 		"AFN": "AFN"
       }
     },
+	{
+      "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml",
+      "rename_channels": {
+        "108": "UTV-108",
+        "109": "UTV-109",
+        "113": "UTV-113",
+        "118": "UTV-118",
+        "116": "UTV-116",
+        "141": "UTV-141",
+        "120": "UTV-120",
+        "701": "UTV-701"
+      }
+    },
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
       "rename_channels": {
