@@ -304,9 +304,9 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
       "rename_channels": {
-        "Russia.Today.in": "Russia.Today.in"
+        "TRT.1.tr": "TRT.1.tr"
       }
     },
     {
