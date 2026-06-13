@@ -147,9 +147,9 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz",
       "rename_channels": {
-        "UK:.Rakuten.VIKI.be": "UK:.Rakuten.VIKI.be"
+        "Now.Sports.4K.616.hk": "Now.Sports.4K.616.hk"
       }
     },
     {
@@ -239,7 +239,8 @@
 		"ZDF.de": "ZDF.de",
 		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
 		"Das.Erste.de": "Das.Erste.de",
-		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de"
+		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de",
+		"FUSSBALL.TV.1.de": "FUSSBALL.TV.1.de"
       }
     },
     {
