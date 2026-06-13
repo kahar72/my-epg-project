@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="MyCloudEPG (Saturday, 13 Jun 2026 - 09:59 PM SGT)"><channel id="102">
+<tv generator-info-name="MyCloudEPG (Sunday, 14 Jun 2026 - 12:14 AM SGT)"><channel id="102">
 		<display-name>Channel 5 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=272" />
 	</channel>
@@ -266683,6 +266683,918 @@
   </programme>
   <programme start="20260615230000 +0300" stop="20260616011500 +0300" channel="TRT.1.tr">
     <title lang="tr">Futbol: FIFA Dünya Kupası 2026</title>
+  </programme>
+  <channel id="Rai1.it">
+    <display-name lang="it">Rai1</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <programme start="20260612000000 +0200" stop="20260612005500 +0200" channel="Rai1.it">
+    <title lang="it">Notti Mondiali</title>
+    <sub-title lang="it">Puntata del 11/06/2026</sub-title>
+    <desc lang="it">Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali. Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali.</desc>
+    <credits>
+      <director>Annarita Cardinali</director>
+      <presenter>Alessandro Antinelli</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/12/1781221544980_1781221429287.png" />
+    <country lang="it">Italia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612005500 +0200" stop="20260612010000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260612010000 +0200" stop="20260612060000 +0200" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
+    <category lang="it">News &amp; Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612060000 +0200" stop="20260612062800 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave. Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
+    <credits>
+      <director>Fabrizio Settimio</director>
+      <presenter>Tiberio Timperi</presenter>
+      <presenter>Maria Soave</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612062800 +0200" stop="20260612063000 +0200" channel="Rai1.it">
+    <title lang="it">CCISS - Viaggiare informati</title>
+    <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati. Previsioni sulla viabilità CCISS Viaggiare informati.</desc>
+    <credits>
+      <presenter>Vari</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/21/1763723047284_RaiMobilita2048x1152.png" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612063000 +0200" stop="20260612063300 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612063300 +0200" stop="20260612065800 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave. Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
+    <credits>
+      <director>Fabrizio Settimio</director>
+      <presenter>Tiberio Timperi</presenter>
+      <presenter>Maria Soave</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612065800 +0200" stop="20260612070000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260612070000 +0200" stop="20260612071000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612071000 +0200" stop="20260612080000 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave. Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
+    <credits>
+      <director>Fabrizio Settimio</director>
+      <presenter>Tiberio Timperi</presenter>
+      <presenter>Maria Soave</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612080000 +0200" stop="20260612083000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612083000 +0200" stop="20260612083500 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260612083500 +0200" stop="20260612085500 +0200" channel="Rai1.it">
+    <title lang="it">Unomattina</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini con Daniela Ferolla. Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini con Daniela Ferolla.</desc>
+    <credits>
+      <director>Fabrizio Settimio</director>
+      <presenter>Massimiliano Ossini e Daniela Ferolla</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/12/1781259963893_1781253384141.png" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612085500 +0200" stop="20260612090000 +0200" channel="Rai1.it">
+    <title lang="it">Tg Parlamento</title>
+    <credits>
+      <presenter>Vari</presenter>
+    </credits>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612090000 +0200" stop="20260612090300 +0200" channel="Rai1.it">
+    <title lang="it">TG1 LIS</title>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612090300 +0200" stop="20260612095000 +0200" channel="Rai1.it">
+    <title lang="it">Unomattina</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini con Daniela Ferolla. Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini con Daniela Ferolla.</desc>
+    <credits>
+      <director>Fabrizio Settimio</director>
+      <presenter>Massimiliano Ossini e Daniela Ferolla</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/12/1781259963893_1781253384141.png" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612095000 +0200" stop="20260612120000 +0200" channel="Rai1.it">
+    <title lang="it">Storie italiane</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Eleonora Daniele conduce il programma dedicato ai temi di stretta attualità e ai principali casi di cronaca. In studio storie e protagonisti che raccontano in prima persona le loro esperienze. Eleonora Daniele conduce il programma dedicato ai temi di stretta attualità e ai principali casi di cronaca. In studio storie e protagonisti che raccontano in prima persona le loro esperienze.</desc>
+    <credits>
+      <director>Giuseppe Bucolo</director>
+      <presenter>Eleonora Daniele</presenter>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/08/1757312584333_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612120000 +0200" stop="20260612133000 +0200" channel="Rai1.it">
+    <title lang="it">Camper Osteria Italia</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Peppone Calabrese presenta le sfide culinarie tra bellissimi borghi che celebrano l'unicità delle loro ricette tradizionali. Peppone Calabrese presenta le sfide culinarie tra bellissimi borghi che celebrano l'unicità delle loro ricette tradizionali.</desc>
+    <credits>
+      <director>Fernando Lizzani</director>
+      <director>Luigi Rizza</director>
+      <presenter>Giuseppe Calabrese</presenter>
+    </credits>
+    <date>2026</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/12/1781260001237_1781260097406.png" />
+    <country lang="it">Italia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612133000 +0200" stop="20260612140500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612140500 +0200" stop="20260612160000 +0200" channel="Rai1.it">
+    <title lang="it">La volta buona</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Interviste faccia a faccia, spettacolo, musica, tv, cinema, letteratura e attualità, ogni giorno in diretta con Caterina Balivo e i suoi ospiti. Interviste faccia a faccia, spettacolo, musica, tv, cinema, letteratura e attualità, ogni giorno in diretta con Caterina Balivo e i suoi ospiti.</desc>
+    <credits>
+      <director>Mirea Crescenza</director>
+      <presenter>Caterina Balivo</presenter>
+    </credits>
+    <date>2025</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/12/1781267656988_1781267580228.png" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612160000 +0200" stop="20260612163000 +0200" channel="Rai1.it">
+    <title lang="it">La volta buona</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Ripercorriamo i migliori momenti del programma. Gli ospiti Vip si raccontano con interviste, trattando anche i principali eventi dello spettacolo, attraverso aneddoti e anteprime. Musica, cinema, tv e tanto altro. Conduce Caterina Balivo. Ripercorriamo i migliori momenti del programma. Gli ospiti Vip si raccontano con interviste, trattando anche i principali eventi dello spettacolo, attraverso aneddoti e anteprime. Musica, cinema, tv e tanto altro. Conduce Caterina Balivo.</desc>
+    <credits>
+      <director>Mirea Crescenza</director>
+      <presenter>Caterina Balivo</presenter>
+    </credits>
+    <date>2025</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/30/1759235351353_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612163000 +0200" stop="20260612163700 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612163700 +0200" stop="20260612164500 +0200" channel="Rai1.it">
+    <title lang="it">CCISS - Viaggiare informati</title>
+    <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati. Previsioni sulla viabilità CCISS Viaggiare informati.</desc>
+    <credits>
+      <presenter>Vari</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/21/1763723047284_RaiMobilita2048x1152.png" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612164500 +0200" stop="20260612181500 +0200" channel="Rai1.it">
+    <title lang="it">Vita in diretta</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Alberto Matano conduce la storica trasmissione pomeridiana di Rai1 che racconta la realtà quotidiana tra fatti di cronaca e storie di attualità. Alberto Matano conduce la storica trasmissione pomeridiana di Rai1 che racconta la realtà quotidiana tra fatti di cronaca e storie di attualità.</desc>
+    <credits>
+      <presenter>Alberto Matano</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/09/1757418631996_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612181500 +0200" stop="20260612193000 +0200" channel="Rai1.it">
+    <title lang="it">Reazione a catena</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e \"catene\" di vocaboli.</desc>
+    <credits>
+      <director>Laura De Stefano</director>
+      <presenter>Pino Insegno</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Giochi &amp; Quiz</category>
+    <icon src="https://www.raiplay.it/dl/img/2025/05/30/1748629035129_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612193000 +0200" stop="20260612193500 +0200" channel="Rai1.it">
+    <title lang="it">Cinque Minuti</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Bruno Vespa racconta l'Italia e il mondo attraverso interviste a personaggi della politica interna e internazionale, del mondo artistico, culturale e dello spettacolo per approfondire le notizie giorno per giorno. Bruno Vespa racconta l'Italia e il mondo attraverso interviste a personaggi della politica interna e internazionale, del mondo artistico, culturale e dello spettacolo per approfondire le notizie giorno per giorno.</desc>
+    <credits>
+      <director>Sabrina Busiello</director>
+      <presenter>Bruno Vespa</presenter>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/01/1677675187944_2048x1152.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260612193500 +0200" stop="20260612200000 +0200" channel="Rai1.it">
+    <title lang="it">Mondiali di Calcio 2026</title>
+    <sub-title lang="it">Cerimonia di apertura dei Mondiali di Calcio 2026 - Toronto</sub-title>
+    <desc lang="it">Al via la seconda cerimonia di apertura dei Mondiali di Calcio 2026 dal BMO Field di Toronto. Questa volta sono in scena Michael Bublé, affiancato da Alessia Cara, Alanis Morissette ed Elyanna. Al via la seconda cerimonia di apertura dei Mondiali di Calcio 2026 dal BMO Field di Toronto. Questa volta sono in scena Michael Bublé, affiancato da Alessia Cara, Alanis Morissette ed Elyanna.</desc>
+    <date>2026</date>
+    <category lang="it">Calcio</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/12/1781267881537_1776932983321_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612200000 +0200" stop="20260612203000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260612203000 +0200" stop="20260612231500 +0200" channel="Rai1.it">
+    <title lang="it">Mondiali di Calcio 2026</title>
+    <sub-title lang="it">Canada - Bosnia ed Erzegovina</sub-title>
+    <desc lang="it">Partita d'esordio del Gruppo B a Toronto. I padroni di casa del Canada affrontano la nazionale della Bosnia ed Erzegovina.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781081899906_1776932983321_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612231500 +0200" stop="20260612235500 +0200" channel="Rai1.it">
+    <title lang="it">Notti Mondiali</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781082007062_1780991709139_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260612235500 +0200" stop="20260612235900 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260612235900 +0200" stop="20260613020500 +0200" channel="Rai1.it">
+    <title lang="it">Notti Mondiali</title>
+    <sub-title lang="it">Puntata del 12/06/2026</sub-title>
+    <desc lang="it">Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781082007062_1780991709139_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613020500 +0200" stop="20260613060000 +0200" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613060000 +0200" stop="20260613065500 +0200" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613065500 +0200" stop="20260613070000 +0200" channel="Rai1.it">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai. Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
+    <date>2026</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/12/06/1481048262903_imperdibili-h.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20260613070000 +0200" stop="20260613070500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613070500 +0200" stop="20260613075500 +0200" channel="Rai1.it">
+    <title lang="it">Settegiorni - Parlamento</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/07/16/1626437358154_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613075500 +0200" stop="20260613080000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260613080000 +0200" stop="20260613082000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613082000 +0200" stop="20260613083500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1 Dialogo</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/05/10/1683734271364_TG1_DIALOGO_per_RaiPlay_ORIZZONTALE_2023.jpg" />
+  </programme>
+  <programme start="20260613083500 +0200" stop="20260613090000 +0200" channel="Rai1.it">
+    <title lang="it">UnoMattina Weekly</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Fabio Gallo e Lorella Boccia con Giulia Bonaudi ci guidano alla scoperta dei luoghi più suggestivi e nascosti d'Italia, senza tralasciare l'attualità con ospiti, collegamenti e approfondimenti sulle notizie più rilevanti della settimana.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780861991416_1780647655749_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613090000 +0200" stop="20260613090400 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613090400 +0200" stop="20260613093000 +0200" channel="Rai1.it">
+    <title lang="it">UnoMattina Weekly</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Fabio Gallo e Lorella Boccia con Giulia Bonaudi ci guidano alla scoperta dei luoghi più suggestivi e nascosti d'Italia, senza tralasciare l'attualità con ospiti, collegamenti e approfondimenti sulle notizie più rilevanti della settimana.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780861991416_1780647655749_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613093000 +0200" stop="20260613093300 +0200" channel="Rai1.it">
+    <title lang="it">TG1 LIS</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
+  </programme>
+  <programme start="20260613093300 +0200" stop="20260613103000 +0200" channel="Rai1.it">
+    <title lang="it">UnoMattina Weekly</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Fabio Gallo e Lorella Boccia con Giulia Bonaudi ci guidano alla scoperta dei luoghi più suggestivi e nascosti d'Italia, senza tralasciare l'attualità con ospiti, collegamenti e approfondimenti sulle notizie più rilevanti della settimana.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780861991416_1780647655749_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613103000 +0200" stop="20260613112500 +0200" channel="Rai1.it">
+    <title lang="it">Buongiorno Benessere</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Il programma del sabato mattina dedicato alla salute, all'informazione medica e all'approfondimento scientifico che ripropone servizi ed interviste di medicina, salute e benessere trasmessi durante l'edizione invernale. Conduce Vira Carbone.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2019/09/24/1569341072337_2048x1152.JPG" />
+  </programme>
+  <programme start="20260613112500 +0200" stop="20260613120000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Verde Illumina - Sport e Salute</title>
+    <sub-title lang="it">Roma - 13/06/2026</sub-title>
+    <desc lang="it">Francesco Gasparri accompagna i telespettatori nel racconto dell'evento che, dal 26 al 29 maggio, ha trasformato Roma nella capitale dello sport giovanile italiano, accogliendo oltre 6.000 studenti provenienti da tutte le regioni del Paese per la fase conclusiva della storica manifestazione dedicata ai giovani. Con lui, otto campioni del team Illumina: i nuotatori Massimiliano Rosolino, Filippo Magnini e Manuel Bortuzzo, l'atleta paralimpico Alessandro Ossola, la campionessa olimpica Manuela Di Centa, i pallavolisti Andrea Lucchetta e Valerio Vermiglio, e la ginnasta italiana-ucraina Anželika Savrajuk. A raccontare le emozioni di una serata speciale, Nicolò Filippucci, vincitore delle nuove proposte del Festival di Sanremo. Ampio spazio poi alle competizioni che hanno animato i principali impianti sportivi della città, con i giovani finalisti impegnati nelle dieci discipline previste dai Giochi della Gioventù. Un racconto che ha come scenario privilegiato lo Stadio Olimpico, autentico tempio dello sport italiano, simbolo di grandi imprese sportive e luogo ideale per accogliere la nuova generazione di atleti. Nel corso della puntata, Francesco Gasparri ed Elisa Silvestrin raccolgono testimonianze, emozioni e storie dei protagonisti, offrendo uno sguardo privilegiato su una manifestazione che ha saputo unire sport, educazione e crescita personale. Il racconto si conclude con le immagini della grande cerimonia finale allo Stadio Olimpico: una giornata di celebrazione che ha riunito tutti i partecipanti per le premiazioni ufficiali e per il concerto di Michele Bravi, suggellando un'esperienza indimenticabile per migliaia di giovani provenienti da tutta Italia.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/03/06/1772806119606_linea%20verde%20illumina%202026%202048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613120000 +0200" stop="20260613123000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Verde Trentino</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Federico Quaranta e Giulia Capocchi conducono gli spettatori nel cuore della Valle dei Mocheni, una delle aree più affascinanti e autentiche del Trentino. Un viaggio tra montagne, boschi, antiche miniere, masi storici e tradizioni sopravvissute al tempo. Tra natura incontaminata, cultura alpina e memoria collettiva, la puntata racconta il volto più intimo della valle: la comunità mochena, le sue radici germanofone, gli antichi mestieri e l'eredità culturale di Giuseppe Sebesta, grande narratore del mondo trentino. Un racconto poetico dedicato a una terra dove i veri giganti sono le persone che ancora oggi custodiscono identità, paesaggio e tradizioni.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/11/1781162648364_linea%20verde%20trentino%202026%202048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613123000 +0200" stop="20260613133000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Verde Sentieri</title>
+    <sub-title lang="it">I cammini della rinascita: il Cammino Francescano della Marca e la Via Lauretana - 13/06/2026</sub-title>
+    <desc lang="it">La prima puntata di Linea Verde Sentieri conduce il pubblico nel cuore dell'Italia centrale, tra Umbria e Marche, lungo i Cammini della Rinascita, percorsi storici e spirituali che attraversano i territori colpiti dal sisma del 2016 e oggi simbolo di resilienza, bellezza e ripartenza. Protagonisti del viaggio i conduttori Lino Zani e Giulia Capocchi. Da Assisi, città di San Francesco e patrimonio UNESCO, partono lungo due itinerari ricchi di storia e spiritualità: il Cammino Francescano della Marca, che conduce verso Ascoli Piceno, e la Via Lauretana, antica via di pellegrinaggio verso Loreto. Giulia Capocchi attraversa la valle tra le suggestive Cascate del Menotre, facendo tappa a Pieve Torina, dove l'acqua diventa esperienza di benessere nel percorso Kneipp, per raggiungere Tolentino, con la Basilica di San Nicola e il racconto del restauro dopo il sisma, fino all'arrivo al Santuario della Santa Casa di Loreto. Lino percorre invece luoghi dove natura, spiritualità e sostenibilità si incontrano: dal Giardino delle Farfalle di Cessapalombo a Sarnano, borgo medievale ai piedi dei Sibillini, fino al convento di San Francesco a Venarotta e all'arrivo ad Ascoli Piceno, tra Sant'Emidio alle Grotte e Piazza del Popolo. Nel cuore della puntata, l'incontro tra Lino e Giulia al Lago di Fiastra, tra accoglienza, cucina marchigiana e antiche mappe della Via Lauretana, prima del ricongiungimento finale a Colfiorito, davanti alla Chiesa di Plestia. Una prima puntata che apre la stagione con un racconto di cammini, comunità e paesaggi straordinari: un'Italia che, passo dopo passo, ha scelto di rinascere.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781078007617_linea%20verde%20sentieri%202026%202048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613133000 +0200" stop="20260613140000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613140000 +0200" stop="20260613150000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Blu</title>
+    <sub-title lang="it">Porti d'Italia: Gaeta e Isole Pontine - 13/06/2026</sub-title>
+    <desc lang="it">Al via la nuova stagione di "Linea Blu – Porti d'Italia", che da oltre trent'anni accompagna il pubblico alla scoperta delle meraviglie dei nostri mari. Il programma, realizzato in collaborazione con il Ministero delle Infrastrutture e dei Trasporti e l'Autorità di Sistema Portuale, è condotto da Donatella Bianchi e Livio Beshir. Nella prima tappa, navigando lungo Punta Papa, i faraglioni, la spiaggia di Lucia Rosa, Donatella Bianchi va alla scoperta della costa eterogenea e variegata dell'isola di Ponza, dove ancora si aspetta il rientro delle barche per rifornirsi di pesce fresco. Un tratto di costa sospeso tra mito, storia e natura, in una delle baie più affascinanti del Tirreno centrale, tra promontori rocciosi, lunghe spiagge dorate e fondali che regalano gorgonie, spugne gialle, ricci meloni, aragoste e relitti di antiche navi. Livio Beshir mostra al pubblico Gaeta e il suo porto, uno scalo strategico sia per la movimentazione delle merci che per la infrastrutturazione energetica del Paese. È infatti da qui che partono le navi specializzate nella posa di cavi sottomarini a grandi profondità, dorsali fondamentali per il trasporto e la distribuzione di energia e dati. Ma, oltre alle grandi opere, Gaeta è un porto animato dall'opera di piccoli cantieri che portano avanti la tradizione artigiana antica di secoli dei maestri d'ascia e l'arte della costruzione navale. Sempre qui opera anche un centro d'eccellenza tutto italiano, l'ITS Giovanni Caboto, scuola di alta specializzazione post-diploma dedicata alla mobilità sostenibile e al settore marittimo. Le spiagge di Gaeta sono famose anche per lo sport e le numerose attività marittime che vi si possono praticare: ogni estate centinaia di atleti di tutto il mondo si danno appuntamento sulla spiaggia di Serapo per la "Steelman Race", una competizione per "uomini e donne d'acciaio" che richiede grandi doti di forza fisica.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781076345256_linea%20blu%202026%202048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613150000 +0200" stop="20260613161000 +0200" channel="Rai1.it">
+    <title lang="it">Passaggio a Nord Ovest</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">In questa puntata:- Visitiamo il cuore della Toscana per scoprire le meraviglie di Siena, riconosciuta dall'UNESCO come Patrimonio Mondiale dell'Umanità;- Sulla costa sud-orientale dell'Islanda si può ammirar - e una straordinaria parata di figure di ghiaccio adagiata sulla sabbia nera, frammenti di iceberg che si distaccano dal ghiacciaio della Laguna Glaciale;- Tra pochi giorni si terrà l'anniversario dei Bersaglieri. Visitiamo il loro museo Storico che raggruppa la storia e le tradizioni del corpo. Un'unità dell'esercito italiano presente in tutte le attività svolte dalle origini ai giorni nostri;- Raggiungiamo in Messico Papantla il cui clima è l'habitat di una orchidea i cui frutti hanno un aroma speciale: la vaniglia. Un programma di Alberto Angela. Con la collaborazione di Vito Lamberti ed Emilio Quinto.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/10/02/1727863715184_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613161000 +0200" stop="20260613165000 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Un viaggio tra fede, tradizioni e devozioni con Lorena Bianchetti, commento al Vangelo con don Giordano Goccini. Al termine In Punta di Matita l'arte con Rodolfo Papa. Conduce Lorena Bianchetti.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765897591865_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613165000 +0200" stop="20260613165500 +0200" channel="Rai1.it">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI. Regia di Francesco Pennacchia.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/12/06/1481048262903_imperdibili-h.jpg" />
+  </programme>
+  <programme start="20260613165500 +0200" stop="20260613170500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613170500 +0200" stop="20260613171000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260613171000 +0200" stop="20260613175500 +0200" channel="Rai1.it">
+    <title lang="it">Linea Med</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Linea Med viaggia tra Sperlonga, Gaeta e Ostia, in un viaggio che intreccia memoria, identità mediterranea, antichi mestieri e tutela del mare. Angela Tuccia parte dalla suggestiva Torre Truglia per raccontare il volto più antico e difensivo del Mediterraneo: quello delle incursioni saracene, delle torri costiere e dei borghi costruiti come vere fortezze affacciate sul mare. Tra i vicoli bianchi del centro storico di Sperlonga, il programma ricostruisce la storia del borgo. Spazio poi ai sapori della tradizione mediterranea con lo chef Alberto De Maldè, che prepara una tipica zuppa di pesce del territorio, simbolo della cucina marinara locale. Nella puntata, anche il racconto degli antichi mestieri legati alla "stramma", storica lavorazione artigianale tipica del territorio, e un approfondimento dedicato al turismo sostenibile e alla tutela dei fondali marini nel Golfo di Gaeta. Giulia Teri è invece al Castello di Santa Severa per raccontare le migrazioni interne che, tra Ottocento e Novecento, hanno trasformato il Mediterraneo in un straordinario punto di incontro tra culture e tradizioni. I "tutorial green" di Daniela Ropolo sono dedicati al riutilizzo intelligente dell'acqua e all'agricoltura sostenibile, con consigli pratici per ridurre gli sprechi e vivere in modo più consapevole. Ad arricchire l'appuntamento anche la presenza della cantante costaricana Cecilia Gayle.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781082485420_1779717771985_linea%20med%202048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613175500 +0200" stop="20260613184000 +0200" channel="Rai1.it">
+    <title lang="it">Musica Mia</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Un programma dedicato alla musica popolare. Giriamo l'Italia a bordo di un furgoncino, caricandolo di strumenti musicali e percorrendo la Nazione da Nord a Sud per comprendere quanto la musica sia capace di raccontare e tramandare le tradizioni di un luogo. Ad arricchire ogni puntata anche due interventi d'eccezione. Il primo è quello del musicista ed esperto di musica popolare Ambrogio Sparagna, il quale ci racconta, regione per regione, la storia della musica popolare italiana. Il secondo è quello dell'attore Edoardo Sylos Labini che racconta la storia di un brano rappresentativo del territorio. Conducono Lorella Boccia e Marco Conidi. Con la partecipazione di Ambrogio Sparagna ed Edoardo Sylos Labini.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/05/28/1779988243799_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613184000 +0200" stop="20260613200000 +0200" channel="Rai1.it">
+    <title lang="it">Reazione a catena</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/05/30/1748629035129_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613200000 +0200" stop="20260613203500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613203500 +0200" stop="20260613213000 +0200" channel="Rai1.it">
+    <title lang="it">Affari tuoi</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Stefano De Martino conduce "Affari tuoi": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il "Dottore" per trovare il pacco contenente 300.000 euro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/09/05/1725550727561_2048x1152%204.jpg" />
+  </programme>
+  <programme start="20260613213000 +0200" stop="20260613233000 +0200" channel="Rai1.it">
+    <title lang="it">Una voce per Padre Pio</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">XXVII edizione di "Una Voce per Padre Pio", una serata di fede e spettacolo che riunisce artisti e volti noti dell'intrattenimento Italiano. Conduce Mara Venier.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/03/1780518350765_1686348590107_img2%202.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260613233000 +0200" stop="20260613233500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260613233500 +0200" stop="20260614033500 +0200" channel="Rai1.it">
+    <title lang="it">Mondiali di Calcio 2026</title>
+    <sub-title lang="it">Brasile - Marocco - 13/06/2026</sub-title>
+    <desc lang="it">Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall' 11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium. New Jersey (New York). Telecronaca di Alberto Rimedio. Commento tecnico di Daniele Adani.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/04/23/1776932983321_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260614033500 +0200" stop="20260614034000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260614034000 +0200" stop="20260614042500 +0200" channel="Rai1.it">
+    <title lang="it">Il commissario Rex</title>
+    <sub-title lang="it">Foto perfette</sub-title>
+    <desc lang="it">Rider, famoso fotografo di moda, per rendere assolutamente realistiche le foto realizzate, uccide con ferocia le sue modelle. Rider, famoso fotografo di moda, per rendere assolutamente realistiche le foto realizzate, uccide con ferocia le sue modelle.</desc>
+    <credits>
+      <actor>Tobias Moretti</actor>
+      <actor>Rhett Butler</actor>
+      <actor>Gedeon Burkhard</actor>
+      <actor>Alexander Pschill</actor>
+      <actor>Karl Markovics</actor>
+      <actor>Heinz Weixelbraun</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="it">Azione &amp; Avventura</category>
+    <icon src="https://www.raiplay.it/dl/img/2018/01/17/1516193745181_Rex%20serie%207%20ep%203.jpg" />
+    <country lang="it">Austria</country>
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20260614042500 +0200" stop="20260614051500 +0200" channel="Rai1.it">
+    <title lang="it">Techetechetè</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Le repliche delle passate edizioni.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780864082621_1751366832992_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614051500 +0200" stop="20260614060000 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine</title>
+    <sub-title lang="it">Puntata del 13/06/2026</sub-title>
+    <desc lang="it">Un viaggio tra fede, tradizioni e devozioni con Lorena Bianchetti, commento al Vangelo con don Giordano Goccini. Al termine In Punta di Matita l'arte con Rodolfo Papa. Conduce Lorena Bianchetti.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780863562230_1765897591865_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614060000 +0200" stop="20260614070000 +0200" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614070000 +0200" stop="20260614070500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614070500 +0200" stop="20260614080000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Blu</title>
+    <sub-title lang="it">Porti d'Italia: Gaeta - 13/06/2026</sub-title>
+    <desc lang="it">Il racconto della bellezza e della fragilità del nostro mare, custode di biodiversità e culla delle grandi civiltà del passato, con le sue potenzialità economiche e sociali. Con uno sguardo sui problemi ambientali e la sicurezza, nel rispetto della cultura e delle tradizioni. Conducono Donatella Bianchi e Livio Beshir.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781076345256_linea%20blu%202026%202048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260614080000 +0200" stop="20260614082000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614082000 +0200" stop="20260614090000 +0200" channel="Rai1.it">
+    <title lang="it">UnoMattina Weekly</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Fabio Gallo e Lorella Boccia con Giulia Bonaudi ci guidano alla scoperta dei luoghi più suggestivi e nascosti d'Italia, senza tralasciare l'attualità con ospiti, collegamenti e approfondimenti sulle notizie più rilevanti della settimana.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/05/1780647655749_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260614090000 +0200" stop="20260614090500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614090500 +0200" stop="20260614093500 +0200" channel="Rai1.it">
+    <title lang="it">Check Up</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Luana Ravegnini conduce la storica trasmissione Rai che, grazie alla presenza in studio dei più autorevoli medici italiani, sostiene le ragioni della scienza medica e offre al pubblico gli strumenti per affrontare la disinformazione.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/09/19/1726758041851_check%20up%202024%202025%202048x1152.jpg" />
+  </programme>
+  <programme start="20260614093500 +0200" stop="20260614094000 +0200" channel="Rai1.it">
+    <title lang="it">TG1 LIS</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
+  </programme>
+  <programme start="20260614094000 +0200" stop="20260614104000 +0200" channel="Rai1.it">
+    <title lang="it">Roberto Bolle - Ballo In Bianco</title>
+    <sub-title lang="it">Roberto Bolle - Ballo In Bianco - 14/06/2026</sub-title>
+    <desc lang="it">Da Piazza San Carlo a Torino, una maxi-classe di ballerini per una lezione alla sbarra con il Maître d'eccezione Roberto Bolle. L'evento, organizzato in collaborazione con ARTEDANZA SRL, è aperto a tutte le scuole di danza d'Italia. Ideato da Roberto Bolle.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/09/06/1694007658360_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260614104000 +0200" stop="20260614105500 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Programma di approfondimento religioso con all'interno la Santa Messa e la Recita dell'Angelus da Piazza San Pietro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765897591865_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614105500 +0200" stop="20260614115000 +0200" channel="Rai1.it">
+    <title lang="it">Santa Messa</title>
+    <sub-title lang="it">Santa Messa dalla Cattedrale di Aversa (Caserta) - 14/06/2026</sub-title>
+    <desc lang="it">Santa Messa dalla Cattedrale di Aversa (Caserta). Regia di Michele Totaro. Commento di Carolina Zaccarini.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2019/11/19/1574153990363_Santa%20Messa%202048x1152.jpg" />
+  </programme>
+  <programme start="20260614115000 +0200" stop="20260614120000 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Programma di approfondimento religioso con all'interno la Santa Messa e la Recita dell'Angelus da Piazza San Pietro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781083081102_1765897591865_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614120000 +0200" stop="20260614121000 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine</title>
+    <sub-title lang="it">Recita dell'Angelus da Piazza San Pietro del 14/06/2026</sub-title>
+    <desc lang="it">L'Angelus recitato da Papa Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765897591865_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260614121000 +0200" stop="20260614122500 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Programma di approfondimento religioso con all'interno la Santa Messa e la Recita dell'Angelus da Piazza San Pietro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781083081102_1765897591865_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614122500 +0200" stop="20260614133000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Verde Estate</title>
+    <sub-title lang="it">Toscana: Da San Casciano dei Bagni alla Val d'Orcia - 14/06/2026</sub-title>
+    <desc lang="it">"Gli Etruschi in tavola": con Margherita Granbassi e Nicola "Tinto" Prudente, inizia il nuovo viaggio di Linea Verde tra Umbria e Toscana. Uno dei patrimoni più preziosi lasciati in eredità dagli Etruschi: presso il complesso termale di San Casciano ai Bagni, l'incontro dei nostri conduttori, pronti per una nuova avventura. Un borgo "nato da un pensiero d'amore e da un sogno di bellezza": tra colline e campi coltivati, immersa nelle dolci colline della Val d'Orcia, il fascino e le bellezze di Pienza, la città ideale, patrimonio Unesco. Case in pietra, vicoli in salita, piazze tranquille: a Cetona, nella Valdichiana Senese, in un territorio dove ancora oggi l'artigianato continua a essere parte della vita quotidiana, l'antica arte della creazione delle candele. Grani antichi, ospitalità, cucina, ma anche il desiderio di insegnare il valore della terra: a Castiglione del Lago, in una azienda agricola, la coltivazione ed il recupero della fagiolina, antichissimo legume presente già sulle tavole degli Etruschi più di 2500 anni fa. Binomi indissolubili: a Montepulciano, nella piazza principale, storia di un abbinamento unico, quello tra il pecorino di Pienza e il vino Nobile di Montepulciano. Profumi che danno carattere ai piatti più semplici: vicino a Castiglione del Lago, nel cuore di una grande tenuta agricola circondata da campi ed orti che cambiano a ogni passo, caratteristiche, proprietà balsamiche e conservazione delle erbe aromatiche. Un palcoscenico a cielo aperto: a Monticchiello, piccolo borgo di circa 200 abitanti non distante da Pienza, la storia di una tradizione leggendaria, quella del "Teatro Povero", che ogni estate, da ormai 60 anni, unisce identità, territorio e creatività.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/08/1780927623833_linea%20verde%20estate%202026%202048x1152.jpg" />
+  </programme>
+  <programme start="20260614133000 +0200" stop="20260614140000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614140000 +0200" stop="20260614171500 +0200" channel="Rai1.it">
+    <title lang="it">Domenica In</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Rivediamo i personaggi più amati, i momenti più divertenti, le interviste più emozionanti in compagnia di Mara Venier.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758284554178_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614171500 +0200" stop="20260614171800 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614171800 +0200" stop="20260614172000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260614172000 +0200" stop="20260614184000 +0200" channel="Rai1.it">
+    <title lang="it">Da noi... a ruota libera</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/26/1758901066163_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614184000 +0200" stop="20260614200000 +0200" channel="Rai1.it">
+    <title lang="it">Reazione a catena</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/05/30/1748629035129_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260614200000 +0200" stop="20260614203500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260614203500 +0200" stop="20260614214000 +0200" channel="Rai1.it">
+    <title lang="it">Affari tuoi</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Stefano De Martino conduce "Affari tuoi": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il "Dottore" per trovare il pacco contenente 300.000 euro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/09/05/1725550727561_2048x1152%204.jpg" />
+  </programme>
+  <programme start="20260614214000 +0200" stop="20260615002000 +0200" channel="Rai1.it">
+    <title lang="it">Mondiali di Calcio 2026</title>
+    <sub-title lang="it">Paesi Bassi - Giappone - 14/06/2026</sub-title>
+    <desc lang="it">Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondia le di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026 Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida In diretta dal AT&amp;T Stadium (Dallas). Telecronaca di Stefano Bizzotto. Commento tecnico di Andrea Stramaccioni.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/04/23/1776932983321_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615002000 +0200" stop="20260615020000 +0200" channel="Rai1.it">
+    <title lang="it">Notti Mondiali</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781083172019_1780991709139_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615020000 +0200" stop="20260615020500 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260615020500 +0200" stop="20260615033500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/02/28/1677587099907_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615033500 +0200" stop="20260615045500 +0200" channel="Rai1.it">
+    <title lang="it">Da noi... a ruota libera</title>
+    <sub-title lang="it">Puntata del 14/06/2026</sub-title>
+    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780864866929_1758901066163_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615045500 +0200" stop="20260615053000 +0200" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615053000 +0200" stop="20260615060000 +0200" channel="Rai1.it">
+    <title lang="it">Parlamento Punto Europa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/07/16/1626437478717_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615060000 +0200" stop="20260615062800 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615062800 +0200" stop="20260615063000 +0200" channel="Rai1.it">
+    <title lang="it">CCISS - Viaggiare informati</title>
+    <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/21/1763723047284_RaiMobilita2048x1152.png" />
+  </programme>
+  <programme start="20260615063000 +0200" stop="20260615063300 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615063300 +0200" stop="20260615065800 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615065800 +0200" stop="20260615070000 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260615070000 +0200" stop="20260615071000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615071000 +0200" stop="20260615080000 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615080000 +0200" stop="20260615083000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615083000 +0200" stop="20260615083500 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260615083500 +0200" stop="20260615085500 +0200" channel="Rai1.it">
+    <title lang="it">Unomattina</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini con Daniela Ferolla.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694187267544_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615085500 +0200" stop="20260615090000 +0200" channel="Rai1.it">
+    <title lang="it">Tg Parlamento</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615090000 +0200" stop="20260615090300 +0200" channel="Rai1.it">
+    <title lang="it">TG1 LIS</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
+  </programme>
+  <programme start="20260615090300 +0200" stop="20260615095000 +0200" channel="Rai1.it">
+    <title lang="it">Unomattina</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini con Daniela Ferolla.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694187267544_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615095000 +0200" stop="20260615120000 +0200" channel="Rai1.it">
+    <title lang="it">Storie italiane</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Eleonora Daniele conduce il programma dedicato ai temi di stretta attualità e ai principali casi di cronaca. In studio storie e protagonisti che raccontano in prima persona le loro esperienze.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/08/1757312584333_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615120000 +0200" stop="20260615133000 +0200" channel="Rai1.it">
+    <title lang="it">Camper Osteria Italia</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Peppone Calabrese presenta le sfide culinarie tra bellissimi borghi che celebrano l'unicità delle loro ricette tradizionali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/05/29/1780061179789_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615133000 +0200" stop="20260615140500 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615140500 +0200" stop="20260615160000 +0200" channel="Rai1.it">
+    <title lang="it">La volta buona</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Interviste faccia a faccia, spettacolo, musica, tv, cinema, letteratura e attualità, ogni giorno in diretta con Caterina Balivo e i suoi ospiti.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/30/1759235351353_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615160000 +0200" stop="20260615163000 +0200" channel="Rai1.it">
+    <title lang="it">La volta buona</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Ripercorriamo i migliori momenti del programma. Gli ospiti Vip si raccontano con interviste, trattando anche i principali eventi dello spettacolo, attraverso aneddoti e anteprime. Musica, cinema, tv e tanto altro. Conduce Caterina Balivo.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/30/1759235351353_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615163000 +0200" stop="20260615163700 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615163700 +0200" stop="20260615164500 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
+  </programme>
+  <programme start="20260615164500 +0200" stop="20260615184000 +0200" channel="Rai1.it">
+    <title lang="it">Vita in diretta</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Alberto Matano conduce la storica trasmissione pomeridiana di Rai1 che racconta la realtà quotidiana tra fatti di cronaca e storie di attualità.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/09/1757418631996_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615184000 +0200" stop="20260615200000 +0200" channel="Rai1.it">
+    <title lang="it">Reazione a catena</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/07/1780865386434_1748629035129_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615200000 +0200" stop="20260615203000 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615203000 +0200" stop="20260615203500 +0200" channel="Rai1.it">
+    <title lang="it">Cinque Minuti</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Bruno Vespa racconta l'Italia e il mondo attraverso interviste a personaggi della politica interna e internazionale, del mondo artistico, culturale e dello spettacolo per approfondire le notizie giorno per giorno.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/01/1677675187944_2048x1152.jpg" />
+  </programme>
+  <programme start="20260615203500 +0200" stop="20260615231500 +0200" channel="Rai1.it">
+    <title lang="it">Mondiali di Calcio 2026</title>
+    <sub-title lang="it">Belgio - Egitto - 15/06/2026</sub-title>
+    <desc lang="it">Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal Lumen Field (Seattle). Telecronaca di Gianluigi Zamponi. Commento tecnico di German Denis.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/04/23/1776932983321_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615231500 +0200" stop="20260615235500 +0200" channel="Rai1.it">
+    <title lang="it">Notti Mondiali</title>
+    <sub-title lang="it">Puntata del 15/06/2026</sub-title>
+    <desc lang="it">Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/06/10/1781083533078_1780991709139_2048x1152.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260615235500 +0200" stop="20260615235900 +0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
   </programme>
   <channel id="beIN.SPORTS.1.fr">
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
