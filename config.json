@@ -3,28 +3,10 @@
     {
       "url": "https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml",
       "rename_channels": {
-        "102": "102",
-		"104": "104",
-		"105": "105",
-		"103": "103",
-		"107": "107",
 		"116": "116",
 		"123": "123",
 		"118": "118",
-		"106": "106",
-		"711": "711",
-		"701": "701",
 		"703": "703",
-		"722": "722",
-		"811": "811",
-		"447": "447",
-		"153": "153",
-		"724": "724",
-		"401": "401",
-		"422": "422",
-		"403": "403",
-		"407": "407",
-		"437": "437",
 		"427": "427",
 		"131": "131",
 		"601": "601",
@@ -33,10 +15,7 @@
 		"603": "603",
 		"611": "611",
 		"509": "509",
-		"316": "316",
 		"307": "307",
-		"304": "304",
-		"314": "314",
 		"303": "303",
 		"221": "221",
 		"222": "222",
@@ -60,13 +39,6 @@
 		"208": "208",
 		"209": "209",
 		"210": "210"
-      }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml",
-      "rename_channels": {
-        "98200": "98200",
-		"98201": "98201"
       }
     },
     {
@@ -129,7 +101,39 @@
 		"DiscoveryAsia": "DiscoveryAsia",
 		"TLC": "TLC",
 		"AFN": "AFN",
-		"AstroFAMTime": "AstroFAMTime"
+		"AstroFAMTime": "AstroFAMTime",
+		"Ch 5": "Ch 5",
+		"Suria": "Suria",
+		"Vasantham": "Vasantham",
+		"Ch 8": "Ch 8",
+		"Ch U": "Ch U",
+		"SCTV.id": "SCTV.id",
+		"Indosiar.id": "Indosiar.id",
+		"TransTV.id": "TransTV.id",
+		"Trans7.id": "Trans7.id",
+		"TVRI.id": "TVRI.id",
+		"RCTI.id": "RCTI.id",
+		"MNCTV.id": "MNCTV.id",
+		"ANTV.id": "ANTV.id",
+		"MDTV.id": "MDTV.id",
+		"CNA": "CNA",
+		"MetroTV.id": "MetroTV.id",
+		"CNN": "CNN",
+		"BBCNews": "BBCNews",
+		"CGTN": "CGTN",
+		"NHKWorldPremium": "NHKWorldPremium",
+		"ABCAustralia": "ABCAustralia",
+		"DW": "DW",
+		"France24": "France24",
+		"History": "History",
+		"DiscoveryChannel": "DiscoveryChannel",
+		"CrimeInvestigation": "CrimeInvestigation",
+		"BBCEarth": "BBCEarth",
+		"HGTV": "HGTV",
+		"CartoonNetwork": "CartoonNetwork",
+		"NickJr": "NickJr",
+		"Nickelodeon": "Nickelodeon",
+		"CGTNDocumentary": "CGTNDocumentary"
       }
     },
 	{
@@ -140,28 +144,6 @@
         "113": "UTV-113",
         "118": "UTV-118",
         "116": "UTV-116"
-      }
-    },
-    {
-      "url": "https://www.open-epg.com/files/indonesia5.xml.gz",
-      "rename_channels": {
-        "SCTV.id": "SCTV.id",
-		"Indosiar.id": "Indosiar.id",
-		"Trans TV.id": "Trans TV.id",
-		"Trans7.id": "Trans7.id",
-		"TVRI.id": "TVRI.id",
-		"RCTI.id": "RCTI.id",
-		"MNC TV.id": "MNC TV.id",
-		"ANTV.id": "ANTV.id",
-		"RTV.id": "RTV.id",
-		"MDTV.id": "MDTV.id",
-		"Metro TV.id": "Metro TV.id"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz",
-      "rename_channels": {
-		"CGTN.Documentary.id": "CGTN.Documentary.id"
       }
     },
     {
