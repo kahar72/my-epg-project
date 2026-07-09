@@ -209,17 +209,17 @@
     },
     {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
-      {
-        "beINSports1.au",
-		"beINSports2.au",
-		"beINSports3.au"
+      "rename_channels": {
+        "beINSports1.au": "beINSports1.au",
+		"beINSports2.au": "beINSports2.au",
+		"beINSports3.au": "beINSports3.au"
       }
     },
     {
       "url": "https://www.open-epg.com/files/qatar1.xml.gz",
-      {
-		"beIN SPORTS MAX 1.qa",
-		"beIN SPORTS MAX 2.qa"
+      "rename_channels": {
+        "beIN SPORTS MAX 1.qa": "beIN SPORTS MAX 1.qa",
+		"beIN SPORTS MAX 2.qa": "beIN SPORTS MAX 2.qa"
       }
     },
     {
