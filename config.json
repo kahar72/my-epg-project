@@ -69,7 +69,6 @@
 		"AstroCitra": "AstroCitra",
 		"AstroOasis": "AstroOasis",
 		"TVSUKAN": "TVSUKAN",
-		"TV6": "TV6",
 		"TVAlhijrah": "TVAlhijrah",
 		"ColorsHD": "ColorsHD",
 		"TVS": "TVS",
@@ -82,15 +81,12 @@
 		"OhMyCeria": "OhMyCeria",
 		"Tastemade": "Tastemade",
 		"OKEY": "OKEY",
-		"8TV": "8TV",
 		"TV9": "TV9",
 		"ZeeCinema": "ZeeCinema",
 		"iQIYI": "iQIYI",
 		"CelestialMovies": "CelestialMovies",
 		"AstroAOD": "AstroAOD",
-		"AstroQJ": "AstroQJ",
 		"KBSWorld": "KBSWorld",
-		"ONE": "ONE",
 		"tvN": "tvN",
 		"K-Plus": "K-Plus",
 		"HITSMovies": "HITSMovies",
@@ -119,11 +115,6 @@
 		"TLC": "TLC",
 		"AFN": "AFN",
 		"AstroFAMTime": "AstroFAMTime",
-		"Ch 5": "Ch 5",
-		"Suria": "Suria",
-		"Vasantham": "Vasantham",
-		"Ch 8": "Ch 8",
-		"Ch U": "Ch U",
 		"SCTV.id": "SCTV.id",
 		"Indosiar.id": "Indosiar.id",
 		"TransTV.id": "TransTV.id",
@@ -133,23 +124,11 @@
 		"MNCTV.id": "MNCTV.id",
 		"ANTV.id": "ANTV.id",
 		"MDTV.id": "MDTV.id",
-		"CNA": "CNA",
 		"MetroTV.id": "MetroTV.id",
-		"CNN": "CNN",
-		"BBCNews": "BBCNews",
-		"CGTN": "CGTN",
-		"NHKWorldPremium": "NHKWorldPremium",
-		"ABCAustralia": "ABCAustralia",
-		"DW": "DW",
-		"France24": "France24",
 		"History": "History",
 		"DiscoveryChannel": "DiscoveryChannel",
 		"CrimeInvestigation": "CrimeInvestigation",
 		"BBCEarth": "BBCEarth",
-		"HGTV": "HGTV",
-		"CartoonNetwork": "CartoonNetwork",
-		"NickJr": "NickJr",
-		"Nickelodeon": "Nickelodeon",
 		"CGTNDocumentary": "CGTNDocumentary"
       }
     },
@@ -213,18 +192,6 @@
       }
     },
     {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
-      "rename_channels": {
-        "Sky.Sport.Premier.League.de": "Sky.Sport.Premier.League.de",
-		"Sky.Sport.Top.Event.de": "Sky.Sport.Top.Event.de",
-		"DAZN.1.de": "DAZN.1.de",
-		"DAZN.2.de": "DAZN.2.de",
-		"sportdigital.Fussball.de": "sportdigital.Fussball.de",
-		"Sky.Sport.Bundesliga.de": "Sky.Sport.Bundesliga.de",
-		"Sky.Sport.Austria.1.HD.de": "Sky.Sport.Austria.1.HD.de"
-      }
-    },
-    {
       "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
       "rename_channels": {
         "beINSports1.au": "beINSports1.au",
@@ -285,40 +252,6 @@
       "rename_channels": {
         "WNBC-DT.us_locals1": "WNBC-DT.us_locals1",
 		"KOKH-DT.us_locals1": "KOKH-DT.us_locals1"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz",
-      "rename_channels": {
-        "CANAL+.PREMIER.LEAGUE.ch": "CANAL+.PREMIER.LEAGUE.ch"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
-      "rename_channels": {
-        "beIN.SPORTS.1.fr": "beIN.SPORTS.1.fr",
-		"beIN.SPORTS.2.fr": "beIN.SPORTS.2.fr",
-		"beIN.SPORTS.3.fr": "beIN.SPORTS.3.fr",
-		"CANAL+.UHD.HDR.fr": "CANAL+.UHD.HDR.fr",
-		"Canal+.Foot.fr": "Canal+.Foot.fr",
-		"Canal+.Sport.360.fr": "Canal+.Sport.360.fr"
-      }
-    },
-    {
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz",
-      "rename_channels": {
-        "CANAL+.Sport.HD.pl": "CANAL+.Sport.HD.pl",
-		"CANAL+.Sport.2.HD.pl": "CANAL+.Sport.2.HD.pl",
-		"CANAL+.Sport.3.HD.pl": "CANAL+.Sport.3.HD.pl",
-		"CANAL+.Sport.4.HD.pl": "CANAL+.Sport.4.HD.pl",
-		"CANAL+.Sport.5.HD.pl": "CANAL+.Sport.5.HD.pl",
-		"Eleven.Sports.1.4K.pl": "Eleven.Sports.1.4K.pl",
-		"Eleven.Sports.1.HD.pl": "Eleven.Sports.1.HD.pl",
-		"Eleven.Sports.2.HD.pl": "Eleven.Sports.2.HD.pl",
-		"Eleven.Sports.3.HD.pl": "Eleven.Sports.3.HD.pl",
-		"Eleven.Sports.4.HD.pl": "Eleven.Sports.4.HD.pl",
-		"Polsat.Sport.Premium.1.pl": "Polsat.Sport.Premium.1.pl",
-		"Polsat.Sport.Premium.2.pl": "Polsat.Sport.Premium.2.pl"
       }
     }
   ]
