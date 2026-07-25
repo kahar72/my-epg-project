@@ -174,7 +174,9 @@
 		"SkySp.Mix.HD.uk": "SkySp.Mix.HD.uk",
 		"ITV1.HD.uk": "ITV1.HD.uk",
 		"BBC.One.Lon.HD.uk": "BBC.One.Lon.HD.uk",
-		"BBC.Two.HD.uk": "BBC.Two.HD.uk"
+		"BBC.Two.HD.uk": "BBC.Two.HD.uk",
+		"Nat.Geo.HD.uk": "Nat.Geo.HD.uk",
+		"Nat.Geo.Wild.uk": "Nat.Geo.Wild.uk"
       }
 	},
     {
@@ -235,8 +237,6 @@
 		"Outdoor.Channel.HD.us2": "Outdoor.Channel.HD.us2",
 		"World.Fishing.Network.HD.(US).us2": "World.Fishing.Network.HD.(US).us2",
 		"Animal.Planet.HD.us2": "Animal.Planet.HD.us2",
-		"National.Geographic.HD.us2": "National.Geographic.HD.us2",
-		"National.Geographic.Wild.HD.us2": "National.Geographic.Wild.HD.us2",
 		"Science.Channel.HD.us2": "Science.Channel.HD.us2",
 		"Disney.Channel.HD.us2": "Disney.Channel.HD.us2",
 		"Boomerang.us2": "Boomerang.us2",
