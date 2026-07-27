@@ -62,6 +62,15 @@
 		"811": "811"
       }
     },
+	{
+      "url": "https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml",
+      "rename_channels": {
+        "822075": "822075",
+        "822074": "822074",
+        "822077": "822077",
+        "822076": "822076"
+      }
+    },
     {
       "url": "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml",
       "rename_channels": {
